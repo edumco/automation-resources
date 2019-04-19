@@ -6,6 +6,18 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 
 ## Blogs
 
+### Test Code
+
+#### Writing Clean Tests
+
+A very professional blog with a very diverse set of software related content. In this blog the series about how to write cleaner test code is a must-read for everyone who  already work with automation.
+
+By: Petri Kainulainen
+
+Visit: https://www.petrikainulainen.net/writing-clean-tests/
+
+
+
 ### Selenium
 
 #### Selenium Automation in JAVA
@@ -14,3 +26,5 @@ With lots of great content and a beautiful presentation this is one of my favori
 By: Alex Siminiuc
 
 Visit: https://seleniumjava.com/
+
+
