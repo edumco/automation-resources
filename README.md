@@ -28,3 +28,4 @@ By: Alex Siminiuc
 Visit: https://seleniumjava.com/
 
 
+https://peter.sh/experiments/chromium-command-line-switches/
