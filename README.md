@@ -28,4 +28,21 @@ By: Alex Siminiuc
 Visit: https://seleniumjava.com/
 
 
+### Chrome
+
+#### Peter.sh
+Lots of command lines which can be used with the Google Chrome browser.
+
+By: Peter Beverloo
+
 https://peter.sh/experiments/chromium-command-line-switches/
+
+
+### Docker
+
+#### Container solutions
+A company with lots of experience in container solutions
+
+By: Adrian Mouat https://www.linkedin.com/in/adrianmouat/
+
+https://container-solutions.com/running-docker-in-jenkins-in-docker/
