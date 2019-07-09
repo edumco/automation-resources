@@ -6,7 +6,7 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 
 ## Blogs
 
-### Test Code
+### Code Quality
 
 #### Writing Clean Tests
 
@@ -16,6 +16,9 @@ By: Petri Kainulainen
 
 Visit: https://www.petrikainulainen.net/writing-clean-tests/
 
+#### It Will Never Work in Theory
+
+http://neverworkintheory.org/about.html
 
 
 ### Selenium
