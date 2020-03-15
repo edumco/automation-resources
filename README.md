@@ -5,22 +5,19 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 ![Robot icon](https://github.com/edumco/automation-resources/raw/master/icon.png)
 
 ## Frameworks
-
-- [Selenium](https://github.com/edumco/automation-resources/tree/master/selenium)
-- JUnit
-- Pytest
+  - [Selenium](https://github.com/edumco/automation-resources/tree/master/selenium)
+  - JUnit
+  - Pytest
 
 ## Tools
-
-- Linux
-- [Docker](https://github.com/edumco/automation-resources/tree/master/docker)
-- Jenkins
-- [Chrome](https://github.com/edumco/automation-resources/tree/master/chrome)
+  - Linux
+  - [Docker](https://github.com/edumco/automation-resources/tree/master/docker)
+  - Jenkins
+  - [Chrome](https://github.com/edumco/automation-resources/tree/master/chrome)
 
 ## Advanced Topics
-
-- [Clean Tests](https://github.com/edumco/automation-resources/tree/master/clean-tests)
-- Test Software Patterns
-- Test Performance (not performance tests)
-- Parallell testing
-- Mutation test
+  - [Clean Tests](https://github.com/edumco/automation-resources/tree/master/clean-tests)
+  - Test Software Patterns
+  - Test Performance (not performance tests)
+  - Parallell testing
+  - Mutation test
