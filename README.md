@@ -23,5 +23,4 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 - Test Software Patterns
 - Test Performance (not performance tests)
 - Parallell testing
-- Distributed testing
 - Mutation test
