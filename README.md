@@ -12,7 +12,6 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 ## Tools
   - Linux
   - [Docker](https://github.com/edumco/automation-resources/tree/master/docker)
-  - Jenkins
   - [Chrome](https://github.com/edumco/automation-resources/tree/master/chrome)
 
 ## Advanced Topics
