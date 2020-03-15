@@ -6,20 +6,20 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 
 ## Frameworks
 
-- [Selenium](https://github.com/edumco/automation-resources/tree/master/selenium)
-- JUnit
-- Pytest
+- [JUnit](https://github.com/edumco/automation-resources/tree/master/frameworks/junit)
+- [Pytest](https://github.com/edumco/automation-resources/tree/master/frameworks/pytest)
+- [Selenium](https://github.com/edumco/automation-resources/tree/master/frameworks/selenium)
 
 ## Tools
 
-- Linux
-- [Docker](https://github.com/edumco/automation-resources/tree/master/docker)
-- [Chrome](https://github.com/edumco/automation-resources/tree/master/chrome)
+- [Chrome](https://github.com/edumco/automation-resources/tree/master/tools/chrome)
+- [Docker](https://github.com/edumco/automation-resources/tree/master/tools/docker)
+- [Git](https://github.com/edumco/automation-resources/tree/master/tools/linux)
+- [Linux](https://github.com/edumco/automation-resources/tree/master/tools/git)
 
 ## Advanced Topics
 
-- [Clean Tests](https://github.com/edumco/automation-resources/tree/master/clean-tests)
-- Test Software Patterns
-- Test Performance (not performance tests)
-- Parallell testing
-- Mutation test
+- [Clean Tests](https://github.com/edumco/automation-resources/tree/master/topics/clean-tests)
+- [Mutation test](https://github.com/edumco/automation-resources/tree/master/topics/mutation)
+- [Test Patterns](https://github.com/edumco/automation-resources/tree/master/topics/test%20patterns)
+- [Test Performance](https://github.com/edumco/automation-resources/tree/master/topics/test%20performance)
