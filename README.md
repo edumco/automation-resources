@@ -18,8 +18,8 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 
 ## Advanced Topics
 
+- [Clean Tests](https://github.com/edumco/automation-resources/tree/master/clean-tests)
 - Test Software Patterns
-- Test Code Quality
 - Test Performance (not performance tests)
 - Parallell testing
 - Distributed testing
