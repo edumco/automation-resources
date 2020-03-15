@@ -6,7 +6,7 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 
 ## Frameworks
 
-- Selenium
+- [Selenium](https://github.com/edumco/automation-resources/tree/master/selenium)
 - JUnit
 - Pytest
 
