@@ -13,7 +13,7 @@ A collection of links, articles and other hand-picked artifacts to help QA profe
 ## Tech stack
 
 - Linux
-- Docker
+- [Docker](https://github.com/edumco/automation-resources/tree/master/docker)
 - Jenkins
 
 ## Advanced Topics
