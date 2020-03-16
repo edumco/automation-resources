@@ -24,24 +24,22 @@
 
 ### Advanced
 
-- [Mastering Selenium Testing Tools](https://www.udemy.com/course/mastering-selenium-testing-tools/)
+- [Mastering Selenium Testing Tools](https://www.udemy.com/course/mastering-selenium-testing-tools/) 💰
 
-- [Advanced Selenium Automation](https://www.udemy.com/course/advanced-selenium-automation/)
+- [Advanced Selenium Automation](https://www.udemy.com/course/advanced-selenium-automation/) 💰
 
-- [Page Object Pattern in Selenium Webdriver](https://www.udemy.com/course/selenium-webdriver-page-objects/)
+- [Page Object Pattern in Selenium Webdriver](https://www.udemy.com/course/selenium-webdriver-page-objects/) 💰
 
-- [Introduction To Parallel Test Execution with Selenium](https://www.udemy.com/course/parallel-test-execution/)
+- [Introduction To Parallel Test Execution with Selenium](https://www.udemy.com/course/parallel-test-execution/) 💰
 
 - [Sauce Labs Masterclass: Advanced Test Automation](https://www.udemy.com/course/sauce-labs/)
 
-- [Getting Started with Python Web Scraping](https://www.udemy.com/course/getting-started-with-python-web-scraping/)
+- [Getting Started with Python Web Scraping](https://www.udemy.com/course/getting-started-with-python-web-scraping/) 💰
 
 ## Blogs
 
 ### Selenium Automation in JAVA
 
     With lots of great content and a beautiful presentation this is one of my favorits blogs.
-
-    By: Alex Siminiuc
 
     Visit: <https://seleniumjava.com/>
