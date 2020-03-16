@@ -14,8 +14,6 @@ JUnit is the most used test execution management framework.
 
 - [JUnit para testadores](https://www.udemy.com/course/junit-para-testadores/) 💰
 
-- [Master Automation Testing with Java and Selenium Webdriver](https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/) 💰
-
 - [Practical Test Driven Development for Java Programmers](udemy.com/course/practical-test-driven-development-for-java-programmers/) 💰
 
 - [Learn by Example: JUnit](https://www.udemy.com/course/learn-by-example-junit/) 💰
@@ -24,6 +22,6 @@ JUnit is the most used test execution management framework.
 
 - [Automation Testing Using Junit](https://www.udemy.com/course/automation-testing-using-junit/) 💰
 
-- [JUnit 5. Develop your skills quickly](https://www.udemy.com/course/junit-java-unit-testing/)
+- [JUnit 5. Develop your skills quickly](https://www.udemy.com/course/junit-java-unit-testing/) 💰
 
-- [Mastering JUnit 5](https://www.udemy.com/course/mastering-junit-5/)
+- [Mastering JUnit 5](https://www.udemy.com/course/mastering-junit-5/) 💰
