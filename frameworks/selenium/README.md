@@ -40,6 +40,6 @@
 
 ### Selenium Automation in JAVA
 
-    With lots of great content and a beautiful presentation this is one of my favorits blogs.
+With lots of great content and a beautiful presentation this is one of my favorits blogs.
 
-    Visit: <https://seleniumjava.com/>
+Visit: <https://seleniumjava.com/>
