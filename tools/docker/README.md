@@ -2,7 +2,7 @@
 
 ## Courses
 
-### Beginners
+### Beginner
 
 - [Beginner's Guide to Containers and Orchestration](https://www.udemy.com/course/linux-academy-beginners-guide-to-containers-and-orchestration/)🆓
 

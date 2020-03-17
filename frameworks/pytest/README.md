@@ -4,7 +4,7 @@ Py test is a test management frameworked for the Python language.
 
 ## Courses
 
-### Beginners
+### Beginner
 
 - [Pytest : Python 3 Unit Testing Tutorial For Beginners](https://www.udemy.com/course/pytest-python-3-unit-testing-tutorial-for-beginners/) 💰
 

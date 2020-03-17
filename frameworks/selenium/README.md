@@ -2,7 +2,7 @@
 
 ## Courses
 
-### Beginners
+### Beginner
 
 - [Automação de Testes com Selenium WebDriver em Java](https://www.udemy.com/course/automacao-de-testes-com-selenium-webdriver-em-java/) 💰
 

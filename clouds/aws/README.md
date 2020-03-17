@@ -4,7 +4,7 @@ The AWS (Amazon Web Services) is one of the most used cloud provider. Learning t
 
 ## Courses
 
-### Beginners
+### Beginner
 
 - [Cloud Computing: The Technical essentials](https://www.udemy.com/course/cloud-computing-the-technical-essentials/) 🆓
 

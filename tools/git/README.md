@@ -2,7 +2,7 @@
 
 ## Courses
 
-### Beginners
+### Beginner
 
 - [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/) 🆓
 

@@ -4,7 +4,7 @@ JUnit is the most used test execution management framework.
 
 ## Courses
 
-### Beginners
+### Beginner
 
 - [Test Driven Development con Java y Junit5](https://www.udemy.com/course/testdrivendevelopment/) 🆓
 
