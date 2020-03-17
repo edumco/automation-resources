@@ -4,20 +4,34 @@
 
 A collection of links, articles and other hand-picked artifacts to help QA professionals to learn and apply best practicies on software automation
 
+## Clouds 🎯
+
+- AWS
+- Azure
+
 ## Frameworks 📝
 
 - [JUnit](https://github.com/edumco/automation-resources/tree/master/frameworks/junit)
 - [Pytest](https://github.com/edumco/automation-resources/tree/master/frameworks/pytest)
 - [Selenium](https://github.com/edumco/automation-resources/tree/master/frameworks/selenium)
 
+## Programing 💻
+
+- Java
+- Javascript
+- Python
+
 ## Tools 🔨
 
 - [Chrome](https://github.com/edumco/automation-resources/tree/master/tools/chrome)
 - [Docker](https://github.com/edumco/automation-resources/tree/master/tools/docker)
 - [Git](https://github.com/edumco/automation-resources/tree/master/tools/linux)
+- [Jenkins](https://github.com/edumco/automation-resources/tree/master/tools/jenkins)
 - [Linux](https://github.com/edumco/automation-resources/tree/master/tools/git)
+- [Maven](https://github.com/edumco/automation-resources/tree/master/tools/maven)
+- [VS Code](https://github.com/edumco/automation-resources/tree/master/tools/vscode)
 
-## Advanced Topics 🎓
+## Topics 🎓
 
 - [Clean Tests](https://github.com/edumco/automation-resources/tree/master/topics/clean-tests)
 - [Mutation test](https://github.com/edumco/automation-resources/tree/master/topics/mutation)
