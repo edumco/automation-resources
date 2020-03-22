@@ -22,7 +22,9 @@ This list is a continuos work and you can help by sending sugestions via pull re
 
 #### Frameworks 📝
 
+- [Behave](frameworks/behave.md)
 - [Cucumber](frameworks/cucumber.md)
+- [Jasmine](frameworks/jasmine.md)
 - [JUnit](frameworks/junit.md)
 - [Mockito](frameworks/mockito.md)
 - [Pytest](frameworks/pytest.md)
