@@ -1,7 +1,0 @@
-# Jenkins
-
-## Courses
-
-## Blogs
-
-## Recipes
