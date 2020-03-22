@@ -1,6 +1,8 @@
 # AWS
 
-The AWS (Amazon Web Services) is one of the most used cloud provider. Learning the basics of its functioning is crucial to run tests in parallel.
+The AWS (Amazon Web Services) is one of the most used cloud provider.
+
+In AWS we can deploy complete enviroments for web services wich we can use to reproduce the production enviroment during test.
 
 ## Courses
 
