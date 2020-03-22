@@ -1,6 +1,8 @@
 # Java
 
-Java is a commom language used by testers in traditional corporations.
+Java is a widely used by testers in traditional corporations.
+
+It is used for Unit and Component tests for Java programs and for Integration tests on web pages using automation frameworks like Selenium.
 
 ## Courses
 
@@ -9,3 +11,5 @@ Java is a commom language used by testers in traditional corporations.
 ### Intermediate
 
 ### Advanced
+
+## Books
