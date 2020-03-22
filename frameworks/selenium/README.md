@@ -1,5 +1,13 @@
 # Selenium
 
+Selenium is a test automation framework that allows tests to control browsers remotily using the webdriver API.
+
+It works finding, interacting and verifying the status of a web page on a browser.
+
+It is mostly used for integration tests but can be used on components with the help of Mocking frameworks.
+
+It is not viable for unit tests, that are better handled by XUnit frameworks.
+
 ## Courses
 
 ### Beginner
