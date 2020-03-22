@@ -18,13 +18,13 @@ This list is a continuos work and you can help by sending sugestions via pull re
 
 #### Clouds 🎯
 
-- [AWS](https://github.com/edumco/automation-resources/tree/master/clouds/aws)
+- [AWS](clouds/aws/README.md)
 
 #### Frameworks 📝
 
-- [JUnit](https://github.com/edumco/automation-resources/tree/master/frameworks/junit)
-- [Pytest](https://github.com/edumco/automation-resources/tree/master/frameworks/pytest)
-- [Selenium](https://github.com/edumco/automation-resources/tree/master/frameworks/selenium)
+- [JUnit](frameworks/junit/README.md)
+- [Pytest](frameworks/pytest/README.md)
+- [Selenium](frameworks/selenium/README.md)
 
 #### Programing 💻
 
@@ -35,19 +35,19 @@ This list is a continuos work and you can help by sending sugestions via pull re
 
 #### Tools 🔨
 
-- [Chrome](https://github.com/edumco/automation-resources/tree/master/tools/chrome)
-- [Docker](https://github.com/edumco/automation-resources/tree/master/tools/docker)
-- [Git](https://github.com/edumco/automation-resources/tree/master/tools/linux)
-- [Jenkins](https://github.com/edumco/automation-resources/tree/master/tools/jenkins)
-- [Linux](https://github.com/edumco/automation-resources/tree/master/tools/git)
-- [Maven](https://github.com/edumco/automation-resources/tree/master/tools/maven)
-- [VS Code](https://github.com/edumco/automation-resources/tree/master/tools/vscode)
+- [Chrome](tools/chrome/README.md)
+- [Docker](tools/docker/README.md)
+- [Git](tools/linux/README.md)
+- [Jenkins](tools/jenkins/README.md)
+- [Linux](tools/git/README.md)
+- [Maven](tools/maven/README.md)
+- [VS Code](tools/vscode/README.md)
 
 #### Topics 🎓
 
 - Automation ROI
-- [Clean Tests](https://github.com/edumco/automation-resources/tree/master/topics/clean-tests)
-- [Mutation test](https://github.com/edumco/automation-resources/tree/master/topics/mutation)
-- [Test Patterns](https://github.com/edumco/automation-resources/tree/master/topics/test%20patterns)
-- [Test Performance](https://github.com/edumco/automation-resources/tree/master/topics/test%20performance)
+- [Clean Tests](topics/clean-tests/README.md)
+- [Mutation test](topics/mutation/README.md)
+- [Test Patterns](topics/test-patterns/README.md)
+- [Test Performance](topics/test-performance/README.md)
 - Test priorization
