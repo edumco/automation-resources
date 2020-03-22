@@ -22,32 +22,38 @@ This list is a continuos work and you can help by sending sugestions via pull re
 
 #### Frameworks 📝
 
+- [Cucumber](frameworks/cucumber.md)
 - [JUnit](frameworks/junit.md)
+- [Mockito](frameworks/mockito.md)
 - [Pytest](frameworks/pytest.md)
 - [Selenium](frameworks/selenium.md)
 
 #### Programing 💻
 
-- Java
-- Javascript
-- Python
-- C#
+- [Algoritms and Data Structures](programing/algoritms.md)
+- [Java](programing/java.md)
+- [Javascript](programing/javascript.md)
+- [Python](programing/python.md)
 
 #### Tools 🔨
 
+- [Appium](tools/appium.md)
 - [Chrome](tools/chrome.md)
 - [Docker](tools/docker.md)
 - [Git](tools/linux.md)
 - [Jenkins](tools/jenkins.md)
+- [Kubernetes](tools/kubernetes.md)
 - [Linux](tools/git.md)
 - [Maven](tools/maven.md)
+- [NodeJS](tools/nodejs.md)
 - [VS Code](tools/vscode.md)
 
 #### Topics 🎓
 
-- Automation ROI
+- [Automation ROI](topics/automation-roi.md)
+- [Certification](topics/certification.md)
 - [Clean Tests](topics/clean-tests.md)
-- [Mutation test](topics/mutation.md)
+- [Test Mutation](topics/mutation.md)
 - [Test Patterns](topics/test-patterns.md)
 - [Test Performance](topics/test-performance.md)
-- Test priorization
+- [Test priorization](topics/test-priorization.md)
