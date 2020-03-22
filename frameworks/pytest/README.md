@@ -1,6 +1,8 @@
 # PyTest
 
-Py test is a test management frameworked for the Python language.
+PyTest is a test execution framework for the Python language.
+
+It is equivalent to JUnit but has more features????
 
 ## Courses
 
