@@ -18,13 +18,13 @@ This list is a continuos work and you can help by sending sugestions via pull re
 
 #### Clouds 🎯
 
-- [AWS](clouds/aws/README.md)
+- [AWS](clouds/aws.md)
 
 #### Frameworks 📝
 
-- [JUnit](frameworks/junit/README.md)
-- [Pytest](frameworks/pytest/README.md)
-- [Selenium](frameworks/selenium/README.md)
+- [JUnit](frameworks/junit.md)
+- [Pytest](frameworks/pytest.md)
+- [Selenium](frameworks/selenium.md)
 
 #### Programing 💻
 
@@ -35,19 +35,19 @@ This list is a continuos work and you can help by sending sugestions via pull re
 
 #### Tools 🔨
 
-- [Chrome](tools/chrome/README.md)
-- [Docker](tools/docker/README.md)
-- [Git](tools/linux/README.md)
-- [Jenkins](tools/jenkins/README.md)
-- [Linux](tools/git/README.md)
-- [Maven](tools/maven/README.md)
-- [VS Code](tools/vscode/README.md)
+- [Chrome](tools/chrome.md)
+- [Docker](tools/docker.md)
+- [Git](tools/linux.md)
+- [Jenkins](tools/jenkins.md)
+- [Linux](tools/git.md)
+- [Maven](tools/maven.md)
+- [VS Code](tools/vscode.md)
 
 #### Topics 🎓
 
 - Automation ROI
-- [Clean Tests](topics/clean-tests/README.md)
-- [Mutation test](topics/mutation/README.md)
-- [Test Patterns](topics/test-patterns/README.md)
-- [Test Performance](topics/test-performance/README.md)
+- [Clean Tests](topics/clean-tests.md)
+- [Mutation test](topics/mutation.md)
+- [Test Patterns](topics/test-patterns.md)
+- [Test Performance](topics/test-performance.md)
 - Test priorization
