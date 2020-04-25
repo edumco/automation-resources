@@ -16,14 +16,12 @@
 
 ### Intermediate
 
--[Monte seu currículo para área de TI](https://www.udemy.com/course/monte-seu-curriculo-para-area-de-ti/) 🆓
+- [Monte seu currículo para área de TI](https://www.udemy.com/course/monte-seu-curriculo-para-area-de-ti/) 🆓
 
 - [Como planejar a carreira na área de tecnologia](https://www.udemy.com/course/como-planejar-a-carreira-na-area-de-tecnologia/) 🆓
 
 ### Advanced
-Programming Best Practices
+
 - [Programação para Leigos - informática do básico ao avançado](https://www.udemy.com/course/programacao-para-leigos/) 🆓 17h
 
-[Algoritmos e Lógica de Programação - do básico ao avançado](https://www.udemy.com/course/algoritmos-e-logica-de-programacao-essencial/) 💰 33h
-
-- [Algoritmos e Lógica de Programação 202Programming Best Practices
+- [Algoritmos e Lógica de Programação - do básico ao avançado](https://www.udemy.com/course/algoritmos-e-logica-de-programacao-essencial/) 💰 33h
