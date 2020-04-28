@@ -37,6 +37,7 @@ This list is a continuos work and you can help by sending sugestions via pull re
 - [Java](programing/java.md)
 - [Javascript](programing/javascript.md)
 - [Python](programing/python.md)
+- [SQL](programing/sql.md)
 
 #### Tools 🔨
 
