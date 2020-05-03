@@ -5,13 +5,13 @@
 - List all installed packages with version
 
 ```bash
-dpkg -l | grep '^ii' | awk '{print $2 "=" $3}'
+dpkg-query --show | awk '{print $1 "=" $2}'
 ```
 
 - Save list to a file
 
 ```bash
-dpkg -l | grep '^ii' | awk '{print $2 "=" $3}' > packages.txt
+dpkg-query --show | awk '{print $1 "=" $2}' > packages.txt
 ```
 
 - Install package list using xargs
