@@ -2,7 +2,7 @@
 
 Links, articles and other hand-picked artifacts to help QA professionals.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cb911d602af6436a9fa5073616aa7815)](https://www.codacy.com/manual/edumco/automation-resources?utm_source=github.com&utm_medium=referral&utm_content=edumco/automation-resources&utm_campaign=Badge_Grade)
 
 ## About
@@ -23,41 +23,41 @@ This list is a continuos work and you can help by sending sugestions via pull re
 
 #### Frameworks 📝
 
-- [Behave](frameworks/behave.md)
-- [Cucumber](frameworks/cucumber.md)
-- [Jasmine](frameworks/jasmine.md)
-- [JUnit](frameworks/junit.md)
-- [Mockito](frameworks/mockito.md)
-- [Pytest](frameworks/pytest.md)
-- [Selenium](frameworks/selenium.md)
+- [Behave](resources/frameworks/behave.md)
+- [Cucumber](resources/frameworks/cucumber.md)
+- [Jasmine](resources/frameworks/jasmine.md)
+- [JUnit](resources/frameworks/junit.md)
+- [Mockito](resources/frameworks/mockito.md)
+- [Pytest](resources/frameworks/pytest.md)
+- [Selenium](resources/frameworks/selenium.md)
 
 #### Programing 💻
 
-- [Algoritms and Data Structures](programing/algoritms.md)
-- [Java](programing/java.md)
-- [Javascript](programing/javascript.md)
-- [Python](programing/python.md)
-- [SQL](programing/sql.md)
+- [Algoritms and Data Structures](resources/programing/algoritms.md)
+- [Java](resources/programing/java.md)
+- [Javascript](resources/programing/javascript.md)
+- [Python](resources/programing/python.md)
+- [SQL](resources/programing/sql.md)
 
 #### Tools 🔨
 
-- [Appium](tools/appium.md)
-- [Chrome](tools/chrome.md)
-- [Docker](tools/docker.md)
-- [Git](tools/linux.md)
-- [Jenkins](tools/jenkins.md)
-- [Kubernetes](tools/kubernetes.md)
-- [Linux](tools/git.md)
-- [Maven](tools/maven.md)
-- [NodeJS](tools/nodejs.md)
-- [VS Code](tools/vscode.md)
+- [Appium](resources/tools/appium.md)
+- [Chrome](resources/tools/chrome.md)
+- [Docker](resources/tools/docker.md)
+- [Git](resources/tools/linux.md)
+- [Jenkins](resources/tools/jenkins.md)
+- [Kubernetes](resources/tools/kubernetes.md)
+- [Linux](resources/tools/git.md)
+- [Maven](resources/tools/maven.md)
+- [NodeJS](resources/tools/nodejs.md)
+- [VS Code](resources/tools/vscode.md)
 
 #### Topics 🎓
 
-- [Automation ROI](topics/automation-roi.md)
-- [Certification](topics/certification.md)
-- [Clean Tests](topics/clean-tests.md)
-- [Test Mutation](topics/mutation.md)
-- [Test Patterns](topics/test-patterns.md)
-- [Test Performance](topics/test-performance.md)
-- [Test priorization](topics/test-priorization.md)
+- [Automation ROI](resources/topics/automation-roi.md)
+- [Certification](resources/topics/certification.md)
+- [Clean Tests](resources/topics/clean-tests.md)
+- [Test Mutation](resources/topics/mutation.md)
+- [Test Patterns](resources/topics/test-patterns.md)
+- [Test Performance](resources/topics/test-performance.md)
+- [Test priorization](resources/topics/test-priorization.md)
