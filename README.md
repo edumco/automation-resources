@@ -61,3 +61,7 @@ This list is a continuos work and you can help by sending sugestions via pull re
 - [Test Patterns](resources/topics/test-patterns.md)
 - [Test Performance](resources/topics/test-performance.md)
 - [Test priorization](resources/topics/test-priorization.md)
+
+## License
+
+[GNU General Public License v3.0](LICENSE)
