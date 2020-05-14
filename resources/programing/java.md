@@ -26,7 +26,7 @@ It is used for Unit and Component tests for Java programs and for Integration te
 
 ## Books
 
-### Beginner
+### Introdutory
 
 - [Beginning Programming with Java For Dummies](https://www.amazon.com.br/Beginning-Programming-Java-Dummies-Barry/dp/1119235537/ref=sr_1_3?qid=1584904278&refinements=p_27%3ABarry+Burd&s=books&sr=1-3)
 
@@ -34,10 +34,6 @@ It is used for Unit and Component tests for Java programs and for Integration te
 
 - [Core Java for the Impatient](https://www.amazon.com.br/Core-Java-Impatient-Cay-Horstmann/dp/0321996321)
 
-### Intermediate
+### Fundamental
 
 - [Core Java Volume I--Fundamentals](https://www.amazon.com.br/dp/0135166306)
-
-
-
-###
