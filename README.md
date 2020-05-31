@@ -7,13 +7,13 @@ Links, articles and other hand-picked artifacts to help QA professionals.
 
 ## About
 
-This repository is created for those who work or want to work with test automation it is made of a index of pages (written in markdown) every page is dedicated to a theme and lists the choosed resources.
+This repository is created for those who work or want to work with test automation it is made of a index of pages (written in markdown) every page is dedicated to a theme and lists the chosen resources.
 
-The resources can be on-line courses, blogs or tutorials that are sorted by type and level of expertise. The courses are marked with a free (🆓) or paid (💰) icon and some resources are marked with a heart (🖤) to indicated those I apreciated the more.
+The resources can be on-line courses, blogs or tutorials that are sorted by type and level of expertise. The courses are marked with a free (🆓) or paid (💰) icon and some resources are marked with a heart (🖤) to indicated those I appreciated more.
 
 Most of the contents are in English but there will be contents in Spanish or Portuguese.
 
-This list is a continuos work and you can help by sending sugestions via pull request or issue.
+This list is a continuos work and you can help by sending suggestions via pull request or issue.
 
 ### Index
 
@@ -33,7 +33,7 @@ This list is a continuos work and you can help by sending sugestions via pull re
 
 #### Programing 💻
 
-- [Algoritms and Data Structures](resources/programing/algoritms.md)
+- [Algorithms and Data Structures](resources/programing/algoritms.md)
 - [Java](resources/programing/java.md)
 - [Javascript](resources/programing/javascript.md)
 - [Python](resources/programing/python.md)
@@ -60,7 +60,7 @@ This list is a continuos work and you can help by sending sugestions via pull re
 - [Test Mutation](resources/topics/mutation.md)
 - [Test Patterns](resources/topics/test-patterns.md)
 - [Test Performance](resources/topics/test-performance.md)
-- [Test priorization](resources/topics/test-priorization.md)
+- [Test prioritization](resources/topics/test-priorization.md)
 
 ## License
 
