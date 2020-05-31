@@ -1,6 +1,6 @@
 # Selenium
 
-Selenium is a test automation framework that allows tests to control browsers remotily using the webdriver API.
+Selenium is a test automation framework that allows tests to control browsers remotely using the webdriver API.
 
 It works finding, interacting and verifying the status of a web page on a browser.
 

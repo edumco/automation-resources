@@ -1,8 +1,8 @@
 # Maven
 
-Maven is a dependency manager very used on Java projects. A minimun knowlege is required to create test projects or add dependencies to an existing project.
+Maven is a dependency manager very used on Java projects. A minimum knowledge is required to create test projects or add dependencies to an existing project.
 
-The selenium tutorials aways include some basic information about it.
+The selenium tutorials always include some basic information about it.
 
 ## Recipes
 

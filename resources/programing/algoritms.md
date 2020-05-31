@@ -1,4 +1,4 @@
-# Algoritms
+# Algorithms
 
 ## Courses
 

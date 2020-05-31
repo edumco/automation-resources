@@ -2,9 +2,9 @@
 
 JUnit is the most used test execution framework.
 
-It colects all the tests, execute and create a report with the results.
+It collects all the tests, execute and create a report with the results.
 
-It is famous on Java projects but has several implementation on diferent languages that work quite equal. Theese implementations are known by XUnit.
+It is famous on Java projects but has several implementation on different languages that work quite equal. These implementations are known by XUnit.
 
 ## Courses
 

@@ -1,6 +1,6 @@
 # SQL
 
-## Cursos
+## Courses
 
 Oracle SQL - A Complete Introduction
 <https://www.udemy.com/course/introduction-to-oracle-sql/>

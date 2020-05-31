@@ -2,7 +2,7 @@
 
 The AWS (Amazon Web Services) is one of the most used cloud provider.
 
-In AWS we can deploy complete enviroments for web services wich we can use to reproduce the production enviroment during test.
+In AWS we can deploy complete environments for web services which we can use to reproduce the production environment during test.
 
 ## Courses
 

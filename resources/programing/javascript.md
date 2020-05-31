@@ -1,10 +1,10 @@
 # Javascript
 
-Javascript is a scripted language that runs on browsers and alows creation of dinamic pages and most recently create complete systems through NodeJS.
+Javascript is a scripted language that runs on browsers and allows creation of dynamic pages and most recently create complete systems through NodeJS.
 
-It is used for test webpages and hibrid aplications.
+It is used for test webpages and hybrid applications.
 
-Protactor, Jasmine
+Protractor, Jasmine
 
 ## Courses
 
