@@ -6,7 +6,8 @@ matrix:
     aspell:
       lang: en
     dictionary:
-      wordlists: spellcheck-custom-words.txt
+      wordlists:
+        - spellcheck-custom-words.txt
       encoding: utf-8
     pipeline:
       - pyspelling.filters.markdown:
