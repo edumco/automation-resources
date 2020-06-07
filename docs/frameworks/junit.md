@@ -18,7 +18,7 @@ It is famous on Java projects but has several implementation on different langua
 
 - [JUnit para testadores](https://www.udemy.com/course/junit-para-testadores/) 💰
 
-- [Practical Test Driven Development for Java Programmers](udemy.com/course/practical-test-driven-development-for-java-programmers/) 💰
+- [Practical Test Driven Development for Java Programmers](https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/) 💰
 
 - [Learn by Example: JUnit](https://www.udemy.com/course/learn-by-example-junit/) 💰
 
