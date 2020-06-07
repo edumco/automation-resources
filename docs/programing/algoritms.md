@@ -6,7 +6,7 @@
 
 - [Programming 101](https://www.udemy.com/course/programming-101/) 🆓
 
-- [Introdução à programação de computadores](udemy.com/course/introducao-a-programacao-de-computadores/) 🆓 1h
+- [Introdução à programação de computadores](https://www.udemy.com/course/introducao-a-programacao-de-computadores/) 🆓 1h
 
 - [Algoritmos e Lógica de programação](https://www.udemy.com/course/algoritmos-logica-programacao/) 🆓 1h
 
