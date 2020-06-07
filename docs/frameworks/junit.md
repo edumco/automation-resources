@@ -10,7 +10,7 @@ It is famous on Java projects but has several implementation on different langua
 
 ### Beginner
 
-- [Test Driven Development con Java y Junit5](https://www.udemy.com/course/testdrivendevelopment/) 🆓
+- [Test Driven Development con Java y JUnit 5](https://www.udemy.com/course/testdrivendevelopment/) 🆓
 
 - [Java for Absolute Beginners](https://www.udemy.com/course/java-for-absolute-beginners-c/) 🆓
 
@@ -24,7 +24,7 @@ It is famous on Java projects but has several implementation on different langua
 
 ### Intermediate
 
-- [Automation Testing Using Junit](https://www.udemy.com/course/automation-testing-using-junit/) 💰
+- [Automation Testing Using JUnit](https://www.udemy.com/course/automation-testing-using-junit/) 💰
 
 - [JUnit 5. Develop your skills quickly](https://www.udemy.com/course/junit-java-unit-testing/) 💰
 

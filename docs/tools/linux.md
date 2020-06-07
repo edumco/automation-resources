@@ -6,7 +6,7 @@ Linux is the most used operating system on the application servers, it is also t
 
 ### Beginner
 
-- [Ubuntu Linux Dekstop Basics](https://www.udemy.com/course/ubuntu-linux-dekstop-basics/) 🆓
+- [Ubuntu Linux Desktop Basics](https://www.udemy.com/course/ubuntu-linux-dekstop-basics/) 🆓
 
 - [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) 🆓
 

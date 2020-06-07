@@ -8,7 +8,7 @@ It is equivalent to JUnit but has more features????
 
 ### Beginner
 
-- [Pytest : Python 3 Unit Testing Tutorial For Beginners](https://www.udemy.com/course/pytest-python-3-unit-testing-tutorial-for-beginners/) 💰
+- [PyTest : Python 3 Unit Testing Tutorial For Beginners](https://www.udemy.com/course/pytest-python-3-unit-testing-tutorial-for-beginners/) 💰
 
 - [Unit Testing and Test Driven Development in Python](https://www.udemy.com/course/unit-testing-and-tdd-in-python/) 💰
 
