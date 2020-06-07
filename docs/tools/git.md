@@ -12,7 +12,7 @@
 
 - [GIT Crash Course](https://www.udemy.com/course/gitbyavinash/) 🆓
 
-- [Git Essensials](https://www.udemy.com/course/learn-git-in-3-hours/) 💰
+- [Git Essentials](https://www.udemy.com/course/learn-git-in-3-hours/) 💰
 
 ### Intermediate
 

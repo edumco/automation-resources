@@ -13,7 +13,7 @@ The resources can be on-line courses, blogs or tutorials that are sorted by type
 
 Most of the contents are in English but there will be contents in Spanish or Portuguese.
 
-This list is a continuos work and you can help by sending suggestions via pull request or issue.
+This list is a continuous work and you can help by sending suggestions via pull request or issue.
 
 ### Index
 

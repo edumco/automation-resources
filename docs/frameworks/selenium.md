@@ -22,7 +22,7 @@ It is not viable for unit tests, that are better handled by XUnit frameworks.
 
 - [Selenium for Beginners using Java step by step](https://www.udemy.com/course/selenium-using-java-for-automation-test-development/) 🆓
 
-- [Selenium Webdriver-How to Do Mouse and Keyboard Actions](https://www.udemy.com/course/selenium-webdriver-how-to-do-mouse-and-keyboard-actions/) 💰
+- [Selenium WebDriver-How to Do Mouse and Keyboard Actions](https://www.udemy.com/course/selenium-webdriver-how-to-do-mouse-and-keyboard-actions/) 💰
 
 - [Automating Web Testing with Selenium and Python](https://www.udemy.com/course/automating-web-testing-with-selenium-and-python/) 💰
 
