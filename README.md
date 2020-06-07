@@ -28,16 +28,16 @@ This list is a continuos work and you can help by sending suggestions via pull r
 - [Jasmine](docs/frameworks/jasmine.md)
 - [JUnit](docs/frameworks/junit.md)
 - [Mockito](docs/frameworks/mockito.md)
-- [Pytest](docs/frameworks/pytest.md)
+- [PyTest](docs/frameworks/pytest.md)
 - [Selenium](docs/frameworks/selenium.md)
 
-#### Programing 💻
+#### Programming 💻
 
-- [Algorithms and Data Structures](docs/programing/algoritms.md)
+- [Algorithms and Data Structures](docs/programming/algoritms.md)
 - [Java](docs/programing/java.md)
-- [Javascript](docs/programing/javascript.md)
-- [Python](docs/programing/python.md)
-- [SQL](docs/programing/sql.md)
+- [Javascript](docs/programming/javascript.md)
+- [Python](docs/programming/python.md)
+- [SQL](docs/programming/sql.md)
 
 #### Tools 🔨
 
