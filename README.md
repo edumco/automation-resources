@@ -33,8 +33,8 @@ This list is a continuous work and you can help by sending suggestions via pull 
 
 #### Programming 💻
 
-- [Algorithms and Data Structures](docs/programming/algoritms.md)
-- [Java](docs/programing/java.md)
+- [Algorithms and Data Structures](docs/programming/algorithms.md)
+- [Java](docs/programming/java.md)
 - [Javascript](docs/programming/javascript.md)
 - [Python](docs/programming/python.md)
 - [SQL](docs/programming/sql.md)
