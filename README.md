@@ -23,44 +23,44 @@ This list is a continuos work and you can help by sending suggestions via pull r
 
 #### Frameworks 📝
 
-- [Behave](resources/frameworks/behave.md)
-- [Cucumber](resources/frameworks/cucumber.md)
-- [Jasmine](resources/frameworks/jasmine.md)
-- [JUnit](resources/frameworks/junit.md)
-- [Mockito](resources/frameworks/mockito.md)
-- [Pytest](resources/frameworks/pytest.md)
-- [Selenium](resources/frameworks/selenium.md)
+- [Behave](docs/frameworks/behave.md)
+- [Cucumber](docs/frameworks/cucumber.md)
+- [Jasmine](docs/frameworks/jasmine.md)
+- [JUnit](docs/frameworks/junit.md)
+- [Mockito](docs/frameworks/mockito.md)
+- [Pytest](docs/frameworks/pytest.md)
+- [Selenium](docs/frameworks/selenium.md)
 
 #### Programing 💻
 
-- [Algorithms and Data Structures](resources/programing/algoritms.md)
-- [Java](resources/programing/java.md)
-- [Javascript](resources/programing/javascript.md)
-- [Python](resources/programing/python.md)
-- [SQL](resources/programing/sql.md)
+- [Algorithms and Data Structures](docs/programing/algoritms.md)
+- [Java](docs/programing/java.md)
+- [Javascript](docs/programing/javascript.md)
+- [Python](docs/programing/python.md)
+- [SQL](docs/programing/sql.md)
 
 #### Tools 🔨
 
-- [Appium](resources/tools/appium.md)
-- [Chrome](resources/tools/chrome.md)
-- [Docker](resources/tools/docker.md)
-- [Git](resources/tools/linux.md)
-- [Jenkins](resources/tools/jenkins.md)
-- [Kubernetes](resources/tools/kubernetes.md)
-- [Linux](resources/tools/git.md)
-- [Maven](resources/tools/maven.md)
-- [NodeJS](resources/tools/nodejs.md)
-- [VS Code](resources/tools/vscode.md)
+- [Appium](docs/tools/appium.md)
+- [Chrome](docs/tools/chrome.md)
+- [Docker](docs/tools/docker.md)
+- [Git](docs/tools/linux.md)
+- [Jenkins](docs/tools/jenkins.md)
+- [Kubernetes](docs/tools/kubernetes.md)
+- [Linux](docs/tools/git.md)
+- [Maven](docs/tools/maven.md)
+- [NodeJS](docs/tools/nodejs.md)
+- [VS Code](docs/tools/vscode.md)
 
 #### Topics 🎓
 
-- [Automation ROI](resources/topics/automation-roi.md)
-- [Certification](resources/topics/certification.md)
-- [Clean Tests](resources/topics/clean-tests.md)
-- [Test Mutation](resources/topics/mutation.md)
-- [Test Patterns](resources/topics/test-patterns.md)
-- [Test Performance](resources/topics/test-performance.md)
-- [Test prioritization](resources/topics/test-priorization.md)
+- [Automation ROI](docs/topics/automation-roi.md)
+- [Certification](docs/topics/certification.md)
+- [Clean Tests](docs/topics/clean-tests.md)
+- [Test Mutation](docs/topics/mutation.md)
+- [Test Patterns](docs/topics/test-patterns.md)
+- [Test Performance](docs/topics/test-performance.md)
+- [Test prioritization](docs/topics/test-priorization.md)
 
 ## License
 
