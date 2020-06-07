@@ -57,7 +57,7 @@ This list is a continuos work and you can help by sending suggestions via pull r
 - [Automation ROI](docs/topics/automation-roi.md)
 - [Certification](docs/topics/certification.md)
 - [Clean Tests](docs/topics/clean-tests.md)
-- [Test Mutation](docs/topics/mutation.md)
+- [Test Mutation](docs/topics/test-mutation.md)
 - [Test Patterns](docs/topics/test-patterns.md)
 - [Test Performance](docs/topics/test-performance.md)
 - [Test prioritization](docs/topics/test-priorization.md)
