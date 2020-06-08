@@ -66,7 +66,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 
 - Thanks to [@rojopolis](https://github.com/rojopolis) for the [GitHub Spellcheck Action](https://github.com/rojopolis/spellcheck-github-actions)
 
-- Thankts to [@gaurav-nelson](https://github.com/gaurav-nelson) for the [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+- Thanks to [@gaurav-nelson](https://github.com/gaurav-nelson) for the [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
 
 ## License
 
