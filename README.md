@@ -20,6 +20,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 #### Clouds 🎯
 
 - [AWS](docs/clouds/aws.md)
+- [Azure](docs/clouds/azure.md)
 
 #### Frameworks 📝
 
