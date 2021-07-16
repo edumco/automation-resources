@@ -2,6 +2,7 @@
 Appium
 awk
 aws
+azure
 BDD
 DevOps
 dpkg
