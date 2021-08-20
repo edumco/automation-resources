@@ -32,4 +32,4 @@ A very professional blog with a very diverse set of software related content. In
 
 ### It Will Never Work in Theory
 
-[neverworkintheory.org](http://neverworkintheory.org/about.html)
+[neverworkintheory.org](https://neverworkintheory.org/about/)
