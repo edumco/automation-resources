@@ -1,4 +1,4 @@
-name: Verify Documentation
+name: Verify Markdown Links
 
 on:
   push:
@@ -15,13 +15,3 @@ jobs:
       
     - name: Markdown Link Check
       uses: gaurav-nelson/github-action-markdown-link-check@1.0.13
-  
-  spell-check:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: GitHub Spellcheck Action 
-      uses: rojopolis/spellcheck-github-actions@0.5.0
-      
