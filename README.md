@@ -31,6 +31,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [Mockito](docs/frameworks/mockito.md)
 - [PyTest](docs/frameworks/pytest.md)
 - [Selenium](docs/frameworks/selenium.md)
+- [Terratest](docs/frameworks/terratest.md)
 
 #### Programming 💻
 
