@@ -32,6 +32,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [PyTest](docs/frameworks/pytest.md)
 - [Selenium](docs/frameworks/selenium.md)
 - [Terratest](docs/frameworks/terratest.md)
+- [ArchUnit](docs/frameworks/archunit.md)
 
 #### Programming 💻
 
