@@ -10,6 +10,8 @@ You can help sending suggestions via pull request or issue.
 
 ## Frameworks 📝
 
+Complete solutions to automate software execution, they normally include: a testing DSL, a test discorevy mecanism, a test executor and some sort of result reporting. More complete solutions also add features like: test data creation, stub and mocking helpers, configuration test and some sort of test execution grouping.
+
 ### Unit Testing
 
 - [JUnit](docs/frameworks/junit.md) - Java
