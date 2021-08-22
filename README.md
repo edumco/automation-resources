@@ -29,6 +29,10 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [JUnit](docs/frameworks/junit.md) - Test discovery and execution in Java
 - [PyTest](docs/frameworks/pytest.md) - Test discovery and execution in Python
 
+#### Data creation
+
+- [Faker](docs/frameworks/faker.md)
+
 #### Mocking
 
 - [Mockito](docs/frameworks/mockito.md)
