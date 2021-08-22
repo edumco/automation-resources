@@ -15,26 +15,41 @@ Most of the contents are in English but there will be contents in Spanish or Por
 
 This list is a continuous work and you can help by sending suggestions via pull request or issue.
 
-### Index
+## Index
 
-#### Clouds 🎯
+### Clouds 🎯
 
 - [AWS](docs/clouds/aws.md)
 - [Azure](docs/clouds/azure.md)
 
-#### Frameworks 📝
+### Frameworks 📝
+
+#### Unit Testing
+
+- [JUnit](docs/frameworks/junit.md) - Test discovery and execution in Java
+- [PyTest](docs/frameworks/pytest.md) - Test discovery and execution in Python
+
+#### Mocking
+
+- [Mockito](docs/frameworks/mockito.md)
+
+#### UI testing
+
+- [Selenium](docs/frameworks/selenium.md)
+
+#### BDD Testing
 
 - [Behave](docs/frameworks/behave.md)
 - [Cucumber](docs/frameworks/cucumber.md)
 - [Jasmine](docs/frameworks/jasmine.md)
-- [JUnit](docs/frameworks/junit.md)
-- [Mockito](docs/frameworks/mockito.md)
-- [PyTest](docs/frameworks/pytest.md)
-- [Selenium](docs/frameworks/selenium.md)
+
+
+#### Infrastructure
+
 - [Terratest](docs/frameworks/terratest.md)
 - [ArchUnit](docs/frameworks/archunit.md)
 
-#### Programming 💻
+#### Programming Language 💻
 
 - [Algorithms and Data Structures](docs/programming/algorithms.md)
 - [Java](docs/programming/java.md)
