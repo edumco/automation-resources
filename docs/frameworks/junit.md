@@ -6,6 +6,10 @@ It collects all the tests, execute and create a report with the results.
 
 It is famous on Java projects but has several implementation on different languages that work quite equal. These implementations are known by XUnit.
 
+## Books
+
+<a href="https://www.amazon.com/Pragmatic-Unit-Testing-Java-JUnit/dp/1941222595"><img src="https://images-na.ssl-images-amazon.com/images/P/B00VXT0ZA2.01.L.jpg" alt="Pragmatic Unit Testing in Java 8 with JUnit" width="200"/></a>
+
 ## Courses
 
 ### Beginner
