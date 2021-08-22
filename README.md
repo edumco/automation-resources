@@ -102,12 +102,10 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [Test Performance](docs/topics/test-performance.md)
 - [Test prioritization](docs/topics/test-priorization.md)
 
+---
+
 ## Thanks
 
 - Thanks to [@rojopolis](https://github.com/rojopolis) for the [GitHub Spellcheck Action](https://github.com/rojopolis/spellcheck-github-actions)
 
 - Thanks to [@gaurav-nelson](https://github.com/gaurav-nelson) for the [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
-
-## License
-
-[GNU General Public License v3.0](LICENSE)
