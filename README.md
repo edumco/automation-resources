@@ -39,6 +39,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 #### UI testing
 
 - [Selenium](docs/frameworks/selenium.md)
+- [Appium](docs/tools/appium.md)
 
 #### BDD Testing
 
@@ -67,21 +68,26 @@ This list is a continuous work and you can help by sending suggestions via pull 
 
 ### Tools 🔨
 
-- [Appium](docs/tools/appium.md)
-- [Chrome](docs/tools/chrome.md)
-- [Docker](docs/tools/docker.md)
+#### Development and build
+
 - [Git](docs/tools/linux.md)
-- [Jenkins](docs/tools/jenkins.md)
-- [Kubernetes](docs/tools/kubernetes.md)
+- [VS Code](docs/tools/vscode.md)
 - [Linux](docs/tools/git.md)
 - [Maven](docs/tools/maven.md)
 - [NodeJS](docs/tools/nodejs.md)
-- [VS Code](docs/tools/vscode.md)
+- [Chrome](docs/tools/chrome.md)
+
+### CI and CD
+
+- [Jenkins](docs/tools/jenkins.md) - Pipeline automation
+- Shellcheck - <https://github.com/koalaman/shellcheck> - Static Analysis for BASH
 
 ### Virtualization and Cloud Computing 🎯
 
 - [AWS](docs/clouds/aws.md)
 - [Azure](docs/clouds/azure.md)
+- [Docker](docs/tools/docker.md)
+- [Kubernetes](docs/tools/kubernetes.md)
 
 ### Topics 🎓
 
