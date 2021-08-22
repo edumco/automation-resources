@@ -1,17 +1,10 @@
 # Automation resources 🤖
 
-Links, articles and other hand-picked artifacts to help QA professionals.
+Links, articles and other hand-picked links to help automate anything!
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cb911d602af6436a9fa5073616aa7815)](https://www.codacy.com/manual/edumco/automation-resources?utm_source=github.com&utm_medium=referral&utm_content=edumco/automation-resources&utm_campaign=Badge_Grade)
+The links are grouped by theme and some have dedicated pages with lots of courses, books and other stuff.
 
-This repository is for those who work or want to work with test automation it is made of a index of pages (written in markdown) every page is dedicated to a theme and lists the chosen resources.
-
-The resources can be on-line courses, blogs or tutorials that are sorted by type and level of expertise. The courses are marked with a free (🆓) or paid (💰) icon and some resources are marked with a heart (🖤) to indicated those I appreciated more.
-
-Most of the contents are in English but there will be contents in Spanish or Portuguese.
-
-This list is a continuous work and you can help by sending suggestions via pull request or issue.
+You can help sending suggestions via pull request or issue.
 
 ---
 
@@ -109,3 +102,8 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - Thanks to [@rojopolis](https://github.com/rojopolis) for the [GitHub Spellcheck Action](https://github.com/rojopolis/spellcheck-github-actions)
 
 - Thanks to [@gaurav-nelson](https://github.com/gaurav-nelson) for the [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+
+- Thanks to all amazing github community
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cb911d602af6436a9fa5073616aa7815)](https://www.codacy.com/manual/edumco/automation-resources?utm_source=github.com&utm_medium=referral&utm_content=edumco/automation-resources&utm_campaign=Badge_Grade)
