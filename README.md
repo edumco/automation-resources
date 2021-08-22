@@ -49,7 +49,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [Terratest](docs/frameworks/terratest.md)
 - [ArchUnit](docs/frameworks/archunit.md)
 
-#### Programming Language 💻
+### Programming Language 💻
 
 - [Algorithms and Data Structures](docs/programming/algorithms.md)
 - [Java](docs/programming/java.md)
@@ -57,7 +57,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [Python](docs/programming/python.md)
 - [SQL](docs/programming/sql.md)
 
-#### Tools 🔨
+### Tools 🔨
 
 - [Appium](docs/tools/appium.md)
 - [Chrome](docs/tools/chrome.md)
@@ -70,7 +70,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [NodeJS](docs/tools/nodejs.md)
 - [VS Code](docs/tools/vscode.md)
 
-#### Topics 🎓
+### Topics 🎓
 
 - [Automation ROI](docs/topics/automation-roi.md)
 - [Certification](docs/topics/certification.md)
