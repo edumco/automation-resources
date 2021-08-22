@@ -8,14 +8,7 @@ It is famous on Java projects but has several implementation on different langua
 
 ## Books
 
-<a href="https://www.amazon.com/Pragmatic-Unit-Testing-Java-JUnit/dp/1941222595">
-  <img src="https://images-na.ssl-images-amazon.com/images/P/B00VXT0ZA2.01.L.jpg" alt="Pragmatic Unit Testing in Java 8 with JUnit" width="200"/>
-</a>
-
-<a href="https://www.amazon.com/JUnit-Action-Catalin-Tudose-ebook-dp-B09781KDZG/dp/B09781KDZG">
-  <img src"https://images-na.ssl-images-amazon.com/images/I/41mTVA2FhbL._SX397_BO1,204,203,200_.jpg" alt="JUnit in Action"  width="200"/>
-</a>
-
+[<img src="https://images-na.ssl-images-amazon.com/images/P/B00VXT0ZA2.01.L.jpg" height="300"/>](https://www.amazon.com/Pragmatic-Unit-Testing-Java-JUnit/dp/1941222595) [<img src="https://images-na.ssl-images-amazon.com/images/I/41mTVA2FhbL._SX397_BO1,204,203,200_.jpg" height="300"/>](https://www.amazon.com/JUnit-Action-Catalin-Tudose-ebook-dp-B09781KDZG/dp/B09781KDZG)
 
 ## Courses
 
