@@ -16,10 +16,10 @@ Complete solutions to automate software execution, they normally include: a test
 
 - [JUnit](docs/frameworks/junit.md) - Java
 - [PyTest](docs/frameworks/pytest.md) - Python
-- shUnit2 - <https://github.com/kward/shunit2/> - Bash
-- Bats - <https://github.com/sstephenson/bats> - Bash
-- Bash Unit - <https://github.com/pgrange/bash_unit> - Bash
-- Pester - https://github.com/pester/Pester - PowerShell. 
+- [shUnit2 🌐](https://github.com/kward/shunit2/)   - Bash
+- [Bats 🌐](https://github.com/sstephenson/bats) - Bash
+- [Bash Unit 🌐](https://github.com/pgrange/bash_unit) - Bash
+- [Pester 🌐](https://github.com/pester/Pester) - PowerShell. 
 
 ### Data creation and Mocking
 
@@ -36,13 +36,13 @@ Complete solutions to automate software execution, they normally include: a test
 - [Behave](docs/frameworks/behave.md)
 - [Cucumber](docs/frameworks/cucumber.md)
 - [Jasmine](docs/frameworks/jasmine.md)
-- Shellspec - <https://github.com/shellspec/shellspec> - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells.
+- [Shellspec 🌐](https://github.com/shellspec/shellspec) - BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells.
 
 ### Infrastructure testing
 
 - [Terratest](docs/frameworks/terratest.md) - Terraform
-- ChefSpec - <https://docs.chef.io/workstation/chefspec/> - Chef
-- RSpec Puppet - <https://rspec-puppet.com/> - Puppet
+- [ChefSpec 🌐](https://docs.chef.io/workstation/chefspec/) - Chef
+- [RSpec Puppet 🌐](https://rspec-puppet.com/) - Puppet
 
 ### Architecture testing
 
@@ -74,7 +74,7 @@ Complete solutions to automate software execution, they normally include: a test
 ### CI and CD
 
 - [Jenkins](docs/tools/jenkins.md) - Pipeline automation
-- Shellcheck - <https://github.com/koalaman/shellcheck> - Static Analysis for BASH
+- [Shellcheck 🌐](https://github.com/koalaman/shellcheck) - Static Analysis for BASH
 
 ---
 
