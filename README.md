@@ -56,6 +56,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 
 - [Terratest](docs/frameworks/terratest.md) - Terraform
 - ChefSpec - <https://docs.chef.io/workstation/chefspec/> - Chef
+- RSpec Puppet - <https://rspec-puppet.com/> - Puppet
 
 #### Architecture
 
