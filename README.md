@@ -46,7 +46,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [Behave](docs/frameworks/behave.md)
 - [Cucumber](docs/frameworks/cucumber.md)
 - [Jasmine](docs/frameworks/jasmine.md)
-
+- Shellspec - <https://github.com/shellspec/shellspec> - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells.
 
 #### Infrastructure
 
