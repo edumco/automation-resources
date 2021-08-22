@@ -6,6 +6,13 @@ It collects all the tests, execute and create a report with the results.
 
 It is famous on Java projects but has several implementation on different languages that work quite equal. These implementations are known by XUnit.
 
+## Books
+
+[<img src="https://images-na.ssl-images-amazon.com/images/P/B00VXT0ZA2.01.L.jpg" height="280"/>](https://www.amazon.com/Pragmatic-Unit-Testing-Java-JUnit/dp/1941222595)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41mTVA2FhbL._SX397_BO1,204,203,200_.jpg" height="280"/>](https://www.amazon.com/dp/B09781KDZG)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/61vy4PVSfdL.jpg" height="280"/>](https://www.amazon.com/Practical-Unit-Testing-JUnit-Mockito/dp/8395185146)
+[<img src="https://m.media-amazon.com/images/P/B076ZQCK5Q.01._SCLZZZZZZZ_SX500_.jpg" height="280"/>](https://www.amazon.com/dp/B076ZQCK5Q)
+
 ## Courses
 
 ### Beginner
