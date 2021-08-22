@@ -17,11 +17,6 @@ This list is a continuous work and you can help by sending suggestions via pull 
 
 ## Index
 
-### Clouds 🎯
-
-- [AWS](docs/clouds/aws.md)
-- [Azure](docs/clouds/azure.md)
-
 ### Frameworks 📝
 
 #### Unit Testing
@@ -62,7 +57,7 @@ This list is a continuous work and you can help by sending suggestions via pull 
 
 - [ArchUnit](docs/frameworks/archunit.md) - Java Architecture
 
-### Programming Language 💻
+### Programming Languages 💻
 
 - [Algorithms and Data Structures](docs/programming/algorithms.md)
 - [Java](docs/programming/java.md)
@@ -82,6 +77,11 @@ This list is a continuous work and you can help by sending suggestions via pull 
 - [Maven](docs/tools/maven.md)
 - [NodeJS](docs/tools/nodejs.md)
 - [VS Code](docs/tools/vscode.md)
+
+### Virtualization and Cloud Computing 🎯
+
+- [AWS](docs/clouds/aws.md)
+- [Azure](docs/clouds/azure.md)
 
 ### Topics 🎓
 
