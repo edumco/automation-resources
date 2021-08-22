@@ -16,6 +16,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 - [JUnit](docs/frameworks/junit.md) - Java
 - [PyTest](docs/frameworks/pytest.md) - Python
+- [GoTestSum 🌐](https://github.com/gotestyourself/gotestsum) - Golang
 - [shUnit2 🌐](https://github.com/kward/shunit2/)   - Bash
 - [Bats 🌐](https://github.com/sstephenson/bats) - Bash
 - [Bash Unit 🌐](https://github.com/pgrange/bash_unit) - Bash
