@@ -26,11 +26,12 @@ This list is a continuous work and you can help by sending suggestions via pull 
 
 #### Unit Testing
 
-- [JUnit](docs/frameworks/junit.md) - Test discovery and execution in Java
-- [PyTest](docs/frameworks/pytest.md) - Test discovery and execution in Python
-- shUnit2 - <https://github.com/kward/shunit2/>
-- bats - <https://github.com/sstephenson/bats>
-- Bash Unit - <https://github.com/pgrange/bash_unit>
+- [JUnit](docs/frameworks/junit.md) - Java
+- [PyTest](docs/frameworks/pytest.md) - Python
+- shUnit2 - <https://github.com/kward/shunit2/> - Bash
+- Bats - <https://github.com/sstephenson/bats> - Bash
+- Bash Unit - <https://github.com/pgrange/bash_unit> - Bash
+- Pester - https://github.com/pester/Pester - PowerShell. 
 
 #### Data creation
 
@@ -53,8 +54,12 @@ This list is a continuous work and you can help by sending suggestions via pull 
 
 #### Infrastructure
 
-- [Terratest](docs/frameworks/terratest.md)
-- [ArchUnit](docs/frameworks/archunit.md)
+- [Terratest](docs/frameworks/terratest.md) - Terraform
+- ChefSpec - <https://docs.chef.io/workstation/chefspec/> - Chef
+
+#### Architecture
+
+- [ArchUnit](docs/frameworks/archunit.md) - Java Architecture
 
 ### Programming Language 💻
 
