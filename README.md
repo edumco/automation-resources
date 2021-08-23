@@ -97,6 +97,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Certification](docs/topics/certification.md)
 - [Clean Tests](docs/topics/clean-tests.md)
 - [Test Mutation](docs/topics/test-mutation.md)
+- [Fuzzing testing 🌐](https://github.com/google/AFL)
 - [Test Patterns](docs/topics/test-patterns.md)
 - [Test Performance](docs/topics/test-performance.md)
 - [Test prioritization](docs/topics/test-priorization.md)
