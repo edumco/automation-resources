@@ -28,6 +28,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Faker](docs/frameworks/faker.md)
 - [Mockito](docs/frameworks/mockito.md)
 - [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation
+- [TestDouble 🌐](https://github.com/testdouble/testdouble.js) - JavaScript - Mocks and stubs
 
 ### UI and Acceptance Testing
 
@@ -47,6 +48,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Terratest](docs/frameworks/terratest.md) - Terraform
 - [ChefSpec 🌐](https://docs.chef.io/workstation/chefspec/) - Chef
 - [RSpec Puppet 🌐](https://rspec-puppet.com/) - Puppet
+- [Pytest-Testinfra 🌐](https://github.com/pytest-dev/pytest-testinfra) - Python - Unit tests for infrastructure
 
 ### Architecture testing
 
@@ -100,7 +102,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Clean Tests](docs/topics/clean-tests.md)
 - [Test Mutation](docs/topics/test-mutation.md)
 - [Fuzzing testing 🌐](https://github.com/google/AFL)
-- [Caos testing 🌐](https://github.com/alexei-led/pumba)
+- [Pumba Caos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
 - [Test Patterns](docs/topics/test-patterns.md)
 - [Test Performance](docs/topics/test-performance.md)
 - [Test prioritization](docs/topics/test-priorization.md)
