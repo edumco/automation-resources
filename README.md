@@ -28,10 +28,11 @@ Complete solutions to automate software execution, they normally include: a test
 - [Faker](docs/frameworks/faker.md)
 - [Mockito](docs/frameworks/mockito.md)
 
-### UI testing
+### UI and Acceptance Testing
 
 - [Selenium](docs/frameworks/selenium.md)
 - [Appium](docs/tools/appium.md)
+- [SerenityJS 🌐](https://github.com/serenity-js/serenity-js) - JavaScript - Acceptance and Service test
 
 ### BDD Testing
 
@@ -77,6 +78,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 - [Jenkins](docs/tools/jenkins.md) - Pipeline automation
 - [Shellcheck 🌐](https://github.com/koalaman/shellcheck) - Static Analysis for BASH
+- [Pull 🌐](https://github.com/wei/pull) - Continuous pull update on Github repos.
 
 ---
 
