@@ -24,9 +24,10 @@ Complete solutions to automate software execution, they normally include: a test
 
 ### Data creation and Mocking
 
-- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Python 
+- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Python - Fixtures for Django webpages
 - [Faker](docs/frameworks/faker.md)
 - [Mockito](docs/frameworks/mockito.md)
+- [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation
 
 ### UI and Acceptance Testing
 
@@ -73,6 +74,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Maven](docs/tools/maven.md)
 - [NodeJS](docs/tools/nodejs.md)
 - [Chrome](docs/tools/chrome.md)
+- [Maven Build Scanner 🌐](https://github.com/intuit/maven-build-scanner)
 
 ### CI and CD
 
@@ -98,6 +100,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Clean Tests](docs/topics/clean-tests.md)
 - [Test Mutation](docs/topics/test-mutation.md)
 - [Fuzzing testing 🌐](https://github.com/google/AFL)
+- [Caos testing 🌐](https://github.com/alexei-led/pumba)
 - [Test Patterns](docs/topics/test-patterns.md)
 - [Test Performance](docs/topics/test-performance.md)
 - [Test prioritization](docs/topics/test-priorization.md)
