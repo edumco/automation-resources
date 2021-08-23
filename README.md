@@ -16,6 +16,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 - [JUnit](docs/frameworks/junit.md) - Java
 - [PyTest](docs/frameworks/pytest.md) - Python
+- [PyThruth 🌐](https://github.com/google/pytruth) - Python - Assestions for python tests.
 - [GoTestSum 🌐](https://github.com/gotestyourself/gotestsum) - Golang
 - [Kotest](https://github.com/kotest/kotest) - Kotlin
 - [shUnit2 🌐](https://github.com/kward/shunit2/)   - Bash
@@ -39,6 +40,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Karate 🌐](https://github.com/intuit/karate) - Java and cross-platform - UI and service
 - [SerenityJS 🌐](https://github.com/serenity-js/serenity-js) - JavaScript - Acceptance and Service test
 - [Gauge 🌐](https://github.com/getgauge/gauge) - Multi language - BDD style test
+- [Recheck 🌐](https://github.com/retest/recheck) - Java - Visual Regression
 
 ### BDD Testing
 
@@ -115,6 +117,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Clean Tests](docs/topics/clean-tests.md)
 - [Stryker JS Test Mutation 🌐](https://github.com/stryker-mutator/stryker-js) - JavaScript
 - [Fuzzing testing 🌐](https://github.com/google/AFL)
+- [FuzzBench 🌐](https://google.github.io/fuzzbench/) - Fuzzer Benchmarking Service
 - [Pumba Caos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
 - [Test Case generation 🌐](https://github.com/Cornutum/tcases)
 - [Test Patterns](docs/topics/test-patterns.md)
