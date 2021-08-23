@@ -116,6 +116,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Stryker JS Test Mutation 🌐](https://github.com/stryker-mutator/stryker-js) - JavaScript
 - [Fuzzing testing 🌐](https://github.com/google/AFL)
 - [Pumba Caos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
+- [Test Case generation 🌐](https://github.com/Cornutum/tcases)
 - [Test Patterns](docs/topics/test-patterns.md)
 - [Test Performance](docs/topics/test-performance.md)
 - [Test prioritization](docs/topics/test-priorization.md)
