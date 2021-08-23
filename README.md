@@ -113,7 +113,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Automation ROI](docs/topics/automation-roi.md)
 - [Certification](docs/topics/certification.md)
 - [Clean Tests](docs/topics/clean-tests.md)
-- [Test Mutation](docs/topics/test-mutation.md)
+- [Stryker JS Test Mutation 🌐](https://github.com/stryker-mutator/stryker-js) - JavaScript
 - [Fuzzing testing 🌐](https://github.com/google/AFL)
 - [Pumba Caos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
 - [Test Patterns](docs/topics/test-patterns.md)
