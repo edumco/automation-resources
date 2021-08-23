@@ -17,6 +17,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [JUnit](docs/frameworks/junit.md) - Java
 - [PyTest](docs/frameworks/pytest.md) - Python
 - [GoTestSum 🌐](https://github.com/gotestyourself/gotestsum) - Golang
+- [Kotest](https://github.com/kotest/kotest) - Kotlin
 - [shUnit2 🌐](https://github.com/kward/shunit2/)   - Bash
 - [Bats 🌐](https://github.com/bats-core/bats-core) - Bash - Bash Automated Testing System
 - [Bash Unit 🌐](https://github.com/pgrange/bash_unit) - Bash
@@ -29,12 +30,15 @@ Complete solutions to automate software execution, they normally include: a test
 - [Mockito](docs/frameworks/mockito.md)
 - [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation
 - [TestDouble 🌐](https://github.com/testdouble/testdouble.js) - JavaScript - Mocks and stubs
+- [GoTests](https://github.com/cweill/gotests) - Golang - Test boilerplate generation
 
 ### UI and Acceptance Testing
 
 - [Selenium](docs/frameworks/selenium.md)
 - [Appium](docs/tools/appium.md)
+- [Karate 🌐](https://github.com/intuit/karate) - Java and cross-platform - UI and service
 - [SerenityJS 🌐](https://github.com/serenity-js/serenity-js) - JavaScript - Acceptance and Service test
+- [Gauge 🌐](https://github.com/getgauge/gauge) - Multi language - BDD style test
 
 ### BDD Testing
 
@@ -92,6 +96,13 @@ Complete solutions to automate software execution, they normally include: a test
 - [Azure](docs/clouds/azure.md)
 - [Docker](docs/tools/docker.md)
 - [Kubernetes](docs/tools/kubernetes.md)
+
+---
+
+## Blogs
+
+- [Awesome Test Automation](https://github.com/atinfo/awesome-test-automation)
+- [Awesome Brazilian Devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs)
 
 ---
 
