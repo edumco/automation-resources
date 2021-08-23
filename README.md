@@ -24,6 +24,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 ### Data creation and Mocking
 
+- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Python 
 - [Faker](docs/frameworks/faker.md)
 - [Mockito](docs/frameworks/mockito.md)
 
