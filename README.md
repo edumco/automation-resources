@@ -53,6 +53,8 @@ Complete solutions to automate software execution, they normally include: a test
 - [ChefSpec 🌐](https://docs.chef.io/workstation/chefspec/) - Chef
 - [RSpec Puppet 🌐](https://rspec-puppet.com/) - Puppet
 - [Pytest-Testinfra 🌐](https://github.com/pytest-dev/pytest-testinfra) - Python - Unit tests for infrastructure
+- [ServerSpec 🌐](https://serverspec.org/)
+- [Goss 🌐](https://github.com/aelsabbahy/goss) - Golang - Server Spec testing
 
 ### Architecture testing
 
