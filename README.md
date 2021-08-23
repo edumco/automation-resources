@@ -18,7 +18,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [PyTest](docs/frameworks/pytest.md) - Python
 - [GoTestSum 🌐](https://github.com/gotestyourself/gotestsum) - Golang
 - [shUnit2 🌐](https://github.com/kward/shunit2/)   - Bash
-- [Bats 🌐](https://github.com/sstephenson/bats) - Bash
+- [Bats 🌐](https://github.com/bats-core/bats-core) - Bash - Bash Automated Testing System
 - [Bash Unit 🌐](https://github.com/pgrange/bash_unit) - Bash
 - [Pester 🌐](https://github.com/pester/Pester) - PowerShell. 
 
