@@ -29,7 +29,7 @@ Complete solutions to automate software execution, they normally include: a test
 ### Data creation and Mocking
 
 - [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Python - Fixtures for Django webpages
-- [Faker](docs/frameworks/faker.md)
+- [Faker 🌐](https://github.com/jaswdr/faker) - Golang - Fake data generator
 - [Mockito](docs/frameworks/mockito.md)
 - [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation
 - [TestDouble 🌐](https://github.com/testdouble/testdouble.js) - JavaScript - Mocks and stubs
