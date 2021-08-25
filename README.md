@@ -43,7 +43,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Selenium](docs/frameworks/selenium.md) - Java, Python, CSharp, Ruby, JavaScript and kotlin - Browser UI testing 
 - [webdrivermanager 🌐](https://github.com/bonigarcia/webdrivermanager) - Java - Java library to configure webdriver used in Selenium tests
 - [Cypress 🌐](https://github.com/cypress-io/cypress) - Javascript - Browser UI testing
-- [Appium](docs/tools/appium.md)
+- [Appium 🌐](https://appium.io/)
 - [Karate 🌐](https://github.com/intuit/karate) - Java and cross-platform - UI and service
 - [SerenityJS 🌐](https://github.com/serenity-js/serenity-js) - JavaScript - Acceptance and Service test
 - [Gauge 🌐](https://github.com/getgauge/gauge) - Multi language - BDD style test
