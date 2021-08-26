@@ -21,7 +21,7 @@ matrix:
       escapes: \\[\\**~]
       delimiters:
       # Ignore text between stars
-      - open: '(?P<open>**+)'
+      - open: '(?s)^(?P<open> **{3,})$'
         close: '(?P=open)'
   sources:
   - '**/*.md'
