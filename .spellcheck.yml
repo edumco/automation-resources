@@ -18,10 +18,10 @@ matrix:
       - pre
   - pyspelling.filters.context:
       context_visible_first: true
-      escapes: \\[\\**~]
+      escapes: \\[\\`~]
       delimiters:
-      # Ignore text between stars
-      - open: '(?s)^(?P<open> **{3,})$'
+      # Ignore inline code (text between back ticks)
+      - open: '(?P<open>`+)'
         close: '(?P=open)'
   sources:
   - '**/*.md'
