@@ -18,10 +18,10 @@ matrix:
       - pre
   - pyspelling.filters.context:
       context_visible_first: true
-      escapes: \\[\\"~]
+      escapes: \\[\\*~]
       delimiters:
-      # Ignore text between inline back ticks
-      - open: '(?P<open>"+)'
+      # Ignore text between stars
+      - open: '(?P<open>*+)'
         close: '(?P=open)'
   sources:
   - '**/*.md'
