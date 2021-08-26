@@ -17,9 +17,9 @@ Complete solutions to automate software execution, they normally include: a test
 - [JUnit](docs/frameworks/junit.md) - Java
 - [PDF Compare 🌐](https://github.com/red6/pdfcompare) - Java - A PDF testing helper
 - [PyTest](docs/frameworks/pytest.md) - Python
-- [PyThruth 🌐](https://github.com/google/pytruth) - Python - Assestions for python tests.
+- [Py Thruth 🌐](https://github.com/google/pytruth) - Python - Assertions for python tests.
 - [Jest 🌐](https://github.com/facebook/jest) - JavaScript - Browser based tests (unit, service and ui)
-- [GoTestSum 🌐](https://github.com/gotestyourself/gotestsum) - Golang
+- [Go Testsum 🌐](https://github.com/gotestyourself/gotestsum) - Golang
 - [Kotest](https://github.com/kotest/kotest) - Kotlin
 - [shUnit2 🌐](https://github.com/kward/shunit2/)   - Bash
 - [Bats 🌐](https://github.com/bats-core/bats-core) - Bash - Bash Automated Testing System
@@ -70,7 +70,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 ### Architecture testing
 
-- [ArchUnit](docs/frameworks/archunit.md) - Java Architecture
+- ["ArchUnit"](docs/frameworks/archunit.md) - Java Architecture
 
 ---
 
@@ -130,7 +130,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [Stryker JS Test Mutation 🌐](https://github.com/stryker-mutator/stryker-js) - JavaScript
 - [Fuzzing testing 🌐](https://github.com/google/AFL)
 - [FuzzBench 🌐](https://google.github.io/fuzzbench/) - Fuzzer Benchmarking Service
-- [Pumba Caos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
+- [Pumba Chaos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
 - [Test Case generation 🌐](https://github.com/Cornutum/tcases)
 - [Test Patterns](docs/topics/test-patterns.md)
 - [Test Performance](docs/topics/test-performance.md)
