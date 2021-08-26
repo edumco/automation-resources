@@ -70,7 +70,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 ### Architecture testing
 
-- ["ArchUnit"](https://www.archunit.org/) - Java - A Java architecture test library to specify and assert architecture rules.
+- [`ArchUnit`](https://www.archunit.org/) - Java - A Java architecture test library to specify and assert architecture rules.
 
 ---
 
