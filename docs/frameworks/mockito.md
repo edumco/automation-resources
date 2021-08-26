@@ -6,6 +6,6 @@
 
 - [Instant Test Driven Development with Java, JUnit and Mockito](https://www.udemy.com/course/instant-test-driven-development-with-junit/) 💰
 
-- [Testes unitários em Java com JUnit e Mockito](https://www.udemy.com/course/testes-unitarios-java/) 💰 4h
+- [`Testes unitários em Java com JUnit e Mockito`](https://www.udemy.com/course/testes-unitarios-java/) 💰 4h
 
-- [Testes unitários em JAVA: Domine JUnit, Mockito e TDD](https://www.udemy.com/course/testes-unitarios-em-java/) 💰 8h
+- [`Testes unitários em JAVA: Domine JUnit, Mockito e TDD`](https://www.udemy.com/course/testes-unitarios-em-java/) 💰 8h
