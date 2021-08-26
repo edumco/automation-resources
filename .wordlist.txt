@@ -8,6 +8,7 @@ DevOps
 dpkg
 EE
 Github
+Golang
 https
 Javascript
 JCasC
