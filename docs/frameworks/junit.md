@@ -17,13 +17,11 @@ It is famous on Java projects but has several implementation on different langua
 
 ### Beginner
 
-- [Test Driven Development con Java y JUnit 5](https://www.udemy.com/course/testdrivendevelopment/) 🆓
-
 - [Java for Absolute Beginners](https://www.udemy.com/course/java-for-absolute-beginners-c/) 🆓
 
-- [Testes Unitários com JUnit 5](https://www.udemy.com/course/testes-unitarios-com-junit-5/) 💰
+- [`Testes Unitários com JUnit 5`](https://www.udemy.com/course/testes-unitarios-com-junit-5/) 💰
 
-- [JUnit para testadores](https://www.udemy.com/course/junit-para-testadores/) 💰
+- [`JUnit para testadores`](https://www.udemy.com/course/junit-para-testadores/) 💰
 
 - [Practical Test Driven Development for Java Programmers](https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/) 💰
 
