@@ -40,6 +40,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 ### UI and Acceptance Testing
 
+- [Arquillian](http://arquillian.org/) - Java -  integration, functional and acceptance tests.
 - [Selenium](docs/frameworks/selenium.md) - Java, Python, CSharp, Ruby, JavaScript and kotlin - Browser UI testing 
 - [webdrivermanager 🌐](https://github.com/bonigarcia/webdrivermanager) - Java - Java library to configure webdriver used in Selenium tests
 - [Cypress 🌐](https://github.com/cypress-io/cypress) - Javascript - Browser UI testing
