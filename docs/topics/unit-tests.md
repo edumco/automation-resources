@@ -154,10 +154,15 @@ O código não deve fazer referências externas que não estejam sob controle di
 
 ### Existence
 
-O valor existe como esperado (não nulo, diferente de zero)
+O valor existe como esperado (não nulo, diferente de zero).
 
 ### Cardinality
+
+A quantidade de valores está exatamente como esperado.
+
 ### Time
+
+Verifica se as ações aconhecem na ordem correta e no tempo certo.
 
 ---
 A importancia dos testes unitários na melhoria continua.
