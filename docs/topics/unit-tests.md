@@ -132,6 +132,33 @@ Verifica se o código está dentro de um limite razoável
 - Teste é 20% mais lento que a média dos testes unitários
 - Teste demora mais de 800ms pra executar
 
+## CORRECT Boundary conditions
+
+> Conformance, Ordering, Range, Reference, Existence, Cardinality, Time
+
+### Conformance
+
+A resposta está de acordo com algum formato esperado.
+
+### Ordering
+
+O conjunto de valores está ordenado ou desordenado como esperado.
+
+### Range
+
+O valor está dentro de limites mínimo e máximos razoáveis
+
+### Reference
+
+O código não deve fazer referências externas que não estejam sob controle direto do código.
+
+### Existence
+
+O valor existe como esperado (não nulo, diferente de zero)
+
+### Cardinality
+### Time
+
 ---
 A importancia dos testes unitários na melhoria continua.
 
