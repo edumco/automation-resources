@@ -1,136 +1,136 @@
-# Como escrever um bom teste unitário
+# How to write a good unit test
 
-Um teste unitário é aquele que testa apenas uma pequena parte do código e verifica seu funcionamento.
+A unit test is one that tests only a small part of the code and verifies its operation.
 
-O tamanho do código a ser testado varia de acordo com a linguagem e arquitetura mas de forma **simplificada** na programação orientada a objetos uma classe ou método pode ser vista como uma unidade.
+The size of the code to be tested varies according to the language and architecture, but in a simplified way, in object-oriented programming, a class or method can be seen as a unit.
 
-O teste unitário verifica somente a funcionalidade, ou seja, se o programa faz as ações esperadas nos cenários de sucesso e nos fluxos alternativos. Verificar a comunicação, a performance ou qualquer outra carecteristica é papel de outros tipos de teste.
+Unit testing only checks functionality, that is, whether the program performs the expected actions in success scenarios and alternative flows. Checking communication, performance or any other characteristic is the role of other types of testing.
 
-Esta é apenas uma lista resumida das principais práticas de escrita de teste unitário e está organizada em forma de mnemônicos baseados no livro **Pragmatic Unit Testing in Java 8 with JUnit**.
+This is just a summary list of the main unit test writing practices and is organized in the form of mnemonics based on the book **Pragmatic Unit Testing in Java 8 with JUnit**.
 
-## O básico
+## The basic
 
-Simples, fáceis de entender, seguem nomenclatura, seguem padrão Arrange, Act, Assert
+Simple, easy to understand, follows nomenclature, follows Arrange, Act, Assert pattern
 
 ## FIRST
 
-### Fast
+###Fast
 
-> Executa em alguns milisegundos. Suite executa em 10 segundos ou menos!
+> Executes in a few milliseconds. Suite runs in 10 seconds or less!
 
-Para manter os testes rápidos mantenha um **design limpo**:
+To keep testing fast, maintain a **clean design**:
 
-- Evite chamar trechos de código que são lentos; (pré-calcule)
-- Refatore métodos longos;
-- Ao invés de consultar receba valores por argumento (injeção e inversão)
+- Avoid calling code snippets that are slow; (pre-calculate)
+- Refactor long methods;
+- Instead of querying, receive values by argument (injection and inversion)
 
 ### Isolated
 
-> Foca em um pedaço pequeno de código.
+> Focuses on a small piece of code.
 
-Para manter o teste isolado remova as seguintes dependências:
+To keep the test isolated, remove the following dependencies:
 
-- Chamadas a outros sistemas;
-- Chamadas a outros **testes**;
-- Código a ser testado chamando outros sistemas.
+- Calls to other systems;
+- Calls to other **tests**;
+- Code to be tested by calling other systems.
 
-### Repeateble
+### Repeatable
 
-> Encontra os mesmos resultados não importa quantas vezes ou como você o execute.
+> Finds the same results no matter how many times or how you run it.
 
-Para um teste ser reproduzível é necessário remover as seguintes dependências:
+For a test to be reproducible, the following dependencies must be removed:
 
-- Tempo de resposta. (se vc está esperando respostas não é um teste unitário)
-- Tempo de execução. (tempo de execução é teste de performance)
-- Configurações externas. (cada teste deve fazer sua própria configuração)
+- Response time. (if you are waiting for answers, it is not a unit test)
+- Runtime. (runtime is performance test)
+- External settings. (each test must do its own configuration)
 
 ### Self-validating
 
-> Verifica **sozinho** se as coisas aconteceram como esperado.
+> Checks **alone** if things happened as expected.
 
-Para ser independente de interferencia humana é necessário automatizar:
+To be independent of human interference it is necessary to automate:
 
-- A configuração do sistema;
-- A criação de dados de teste;
-- A limpeza de recursos impactados pelo teste;
-- Quando os testes serão executados; (Infinitest + git hooks + CI Server)
-- A manutenção de boas práticas.
+- System configuration;
+- Creation of test data;
+- Cleaning resources impacted by the test;
+- When the tests will be performed; (Infinitest + git hooks + CI Server)
+- Maintaining good practices.
 
-### Timely (Oportuno)
+### Timely
 
-É escrito a tempo de causar impacto no código. (Durante o desenvolvimento)
+It is written in time to make an impact on the code. (During development)
 
-#### Em código antigo
+#### In old code
 
-- Escrever testes imediatamente antes de refatorar;
-- Selecionar um trecho PEQUENO de código para refatorar;
+- Write tests immediately before refactoring;
+- Select a SMALL section of code to refactor;
 
-#### Em código novo
+#### In new code
 
-- Intercalar os testes com o desenvolvimento (mesmo que não se use TDD);
-- Reduzir a quantidade de código escrito sem testes.
+- Intersperse testing with development (even if TDD is not used);
+- Reduce the amount of code written without tests.
 
 ## Right-BICEP
 
-Right    Right Results
-B        Boundary conditions
-I        Inverse relationship
-C        Cros-check results
-E        Error conditions
-P        Performance within bounds
+Right Right Results
+B Boundary conditions
+I Inverse relationship
+C Cros-check results
+E Error conditions
+P Performance within bounds
 
 ### Right Results
 
-Verifica o caminho feliz e garante que o código faz ao menos esse caminho corretamente.
+Checks the happy path and ensures that the code does at least that path correctly.
 
-É o primeiro teste que deve ser garantido.
+It is the first test that must be guaranteed.
 
 ### Boundary conditions
 
-Verifica se os limites dos intervalos de valores (início e fim) são respeitados, seja na entrada ou saída de dados.
+Checks whether the limits of the value ranges (start and end) are respected, whether during data input or output.
 
-Todo tipo de dado é finito e cada "campo" possui restrições e faixas de valores válidos e inválidos.
+Every data type is finite and each "field" has restrictions and ranges of valid and invalid values.
 
-Valores inconsistentes com o tipo = letras no lugar de números
-Dados mal formatados = casas decimais, espaços, pontuação
-Overflow = operações que geram números grandes
-Variáveis vazias ou nulas = Divisão por zero, null pointer, arquivos que não existem
-Listas inconsistentes = duplicação, ordem
-Ordem cronológica de ações = Chamadas fora de ordem, concorrência
+Values inconsistent with type = letters instead of numbers
+Poorly formatted data = decimal places, spaces, punctuation
+Overflow = operations that generate large numbers
+Empty or null variables = Division by zero, null pointer, files that do not exist
+Inconsistent lists = duplication, order
+Chronological order of actions = Calls out of order, competition
 
 ### Inverse relationship
 
-Verifica se a operção inversa desfaz ou traz resultado diferente.
+Checks whether the reverse operation undoes or brings a different result.
 
-Soma             Subtração
-Multiplicação    Divisão
-Potencia         Raiz
+Sum Subtraction
+Multiplication Division
+Root Power
 ...
 
 ### Cros-check results
 
-Verifica por outros meios se a reposta está correta.
+Check by other means whether the answer is correct.
 
-Podemos usar uma implementação diferente para garantir a consistência como por exemplo uma lib de outro software.
+We can use a different implementation to guarantee consistency, such as a lib from another software.
 
 ### Error conditions
 
-Verifica se ao forçar uma condição de erro o programa tem uma resposta adequada.
+Checks whether when forcing an error condition the program has an appropriate response.
 
-Falta de memória
-Falta de espaço em disco
-Mudanças no relógio do sistema
-Rede
-Carga
-Incompatibilidades
+Lack of memory
+Lack of disk space
+System clock changes
+Network
+Charge
+Incompatibilities
 
 ### Performance within bounds
 
-Verifica se o código está dentro de um limite razoável
+Checks if the code is within a reasonable limit
 
-- Versão nova está 2x mais lenta
-- Teste é 20% mais lento que a média dos testes unitários
-- Teste demora mais de 800ms pra executar
+- New version is 2x slower
+- Testing is 20% slower than average unit testing
+- Test takes more than 800ms to execute
 
 ## CORRECT Boundary conditions
 
@@ -138,45 +138,45 @@ Verifica se o código está dentro de um limite razoável
 
 ### Conformance
 
-A resposta está de acordo com algum formato esperado.
+The response conforms to some expected format.
 
 ### Ordering
 
-O conjunto de valores está ordenado ou desordenado como esperado.
+The set of values is ordered or unordered as expected.
 
-### Range
+###Range
 
-O valor está dentro de limites mínimo e máximos razoáveis
+The value is within reasonable minimum and maximum limits
 
 ### Reference
 
-O código não deve fazer referências externas que não estejam sob controle direto do código.
+The code must not make external references that are not under the direct control of the code.
 
 ### Existence
 
-O valor existe como esperado (não nulo, diferente de zero).
+The value exists as expected (not null, non-zero).
 
 ### Cardinality
 
-A quantidade de valores está exatamente como esperado.
+The number of values is exactly as expected.
 
 ### Time
 
-Verifica se as ações aconhecem na ordem correta e no tempo certo.
+Checks whether the actions are performed in the correct order and at the right time.
 
 ---
-A importancia dos testes unitários na melhoria continua.
+The importance of unit tests in improvement continues.
 
-permite identificar efeitos colaterais
-Facilita o refectoring
+allows you to identify side effects
+Facilitates refectoring
 
-A importancia do refactoring pros testes unitários
+The importance of refactoring for unit tests
 
-Gerar unidades concisas de teste
+Generate concise test units
 
 ---
 
-## Referências
+## References
 
 LANGR, Jeff. **Pragmatic Unit Testing in Java 8 with JUnit**
 
