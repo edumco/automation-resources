@@ -98,6 +98,7 @@ Complete solutions to automate software execution, they normally include: a test
 - [NodeJS](docs/tools/nodejs.md)
 - [Chrome](docs/tools/chrome.md)
 - [Maven Build Scanner 🌐](https://github.com/intuit/maven-build-scanner)
+- [Gihub clone all](https://github.com/mgedmin/ghcloneall) - Baixa todos os seus repos do github 
 
 ### CI and CD
 
