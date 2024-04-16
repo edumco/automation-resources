@@ -90,6 +90,7 @@ Complete solutions to automate software execution, they normally include: a test
 ### Development and build
 
 - [hoppscotch previously PostWoman 🌐](https://github.com/hoppscotch/hoppscotch) - Api test webbased tool
+- [Pyan](https://github.com/Technologicat/pyan) - Python - Offline call graph generator for Python 3
 - [Git](docs/tools/linux.md)
 - [VS Code](docs/tools/vscode.md)
 - [Linux](docs/tools/git.md)
