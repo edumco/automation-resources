@@ -4,6 +4,10 @@ PyTest is a test execution framework for the Python language.
 
 It is equivalent to JUnit but has more features????
 
+## Tools
+
+- [Py Thruth 🌐](https://github.com/google/pytruth) - Assertions for Python tests.
+
 ## Courses
 
 ### Beginner
