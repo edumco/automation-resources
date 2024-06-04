@@ -14,7 +14,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 ### Unit Testing
 
-- [JUnit](docs/frameworks/junit.md) - Java
+- [JUnit](JUnit.md) - Java
 - [PDF Compare 🌐](https://github.com/red6/pdfcompare) - Java - A PDF testing helper
 - [PyTest](docs/frameworks/pytest.md) - Python
 - [Py Thruth 🌐](https://github.com/google/pytruth) - Python - Assertions for python tests.

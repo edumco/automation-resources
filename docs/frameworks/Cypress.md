@@ -1,0 +1,1 @@
+It's a framework used for Integration and Component Testing.
