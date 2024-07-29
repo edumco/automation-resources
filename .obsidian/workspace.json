@@ -4,65 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc019619cf3497e",
+        "id": "47bbab9718b38610",
         "type": "tabs",
-        "dimension": 56.69117647058823,
         "children": [
           {
-            "id": "8a79880dc790dad7",
+            "id": "d49e3dbe54e14113",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/frameworks/Test Automation Framework.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "fad0d4e04e5ba2a8"
-          }
-        ]
-      },
-      {
-        "id": "2b77041a70de75b8",
-        "type": "tabs",
-        "dimension": 43.30882352941177,
-        "children": [
-          {
-            "id": "395bedae89f2ba16",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "docs/frameworks/Test Automation Framework.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3628873839180749,
-                  "close": false
-                }
-              }
-            },
-            "group": "fad0d4e04e5ba2a8"
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -114,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "91b0c72ceb022dea",
@@ -131,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/frameworks/Test Automation Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/frameworks/Test Automation Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/frameworks/Test Automation Framework.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,28 +139,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "395bedae89f2ba16",
+  "active": "d49e3dbe54e14113",
   "lastOpenFiles": [
-    "docs/frameworks/Cypress.md",
-    "docs/frameworks/Test Automation Framework.md",
-    "docs/frameworks/behave.md",
-    "docs/programming/java.md",
-    "docs/programming/tag.md",
-    "docs/frameworks/Appium.md",
-    "docs/frameworks/Playwright.md",
-    "docs/frameworks/selenium.md",
-    "docs/frameworks/Arquillian.md",
-    "docs/frameworks/TestNG.md",
-    "docs/frameworks/JUnit.md",
-    "nunit.md",
-    "docs/programming/WebDriver API.md",
+    "docs/topics/unit-tests.md",
     "docs/programming/software framework.md",
-    "docs/programming/DOM.md",
-    "docs/programming/elements.md",
     "docs/programming/css.md",
-    "docs/programming/HTML.md",
-    "docs/frameworks/Spring Test.md",
+    "docs/frameworks/Test Automation Framework.md",
     "README.md",
-    "docs/clouds/aws.md"
+    "docs/frameworks/NUnit.md",
+    "docs/tools/Tools.md",
+    "docs/frameworks/unittest.md",
+    "docs/frameworks/Test Automation Frameworks.md",
+    "docs/tools/maven.md",
+    "docs/frameworks/TestNG.md",
+    "docs/frameworks/terratest.md",
+    "docs/frameworks/Spring Test.md",
+    "docs/frameworks/selenium.md",
+    "docs/frameworks/pytest.md",
+    "docs/frameworks/Playwright.md",
+    "docs/frameworks/mockito.md",
+    "docs/frameworks/JUnit.md",
+    "docs/frameworks/jasmine.md",
+    "docs/frameworks/Cypress.md",
+    "docs/frameworks/cucumber.md",
+    "docs/frameworks/behave.md",
+    "docs/frameworks/Arquillian.md",
+    "docs/tools/docker.md",
+    "docs/topics/CI CD.md",
+    "docs/programming/python.md",
+    "assets/Test Annotations.png",
+    "assets/DOM.png"
   ]
 }
