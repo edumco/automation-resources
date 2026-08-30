@@ -40,6 +40,7 @@ Complete solutions to automate software execution, they normally include: a test
 
 ### UI and Acceptance Testing
 
+- [Agent QA 🌐](https://github.com/vostride/agent-qa) - Natural-language testing for local web and Android applications through an npm CLI and MCP server.
 - [Arquillian](http://arquillian.org/) - Java -  integration, functional and acceptance tests.
 - [Selenium](docs/frameworks/selenium.md) - Java, Python, CSharp, Ruby, JavaScript and kotlin - Browser UI testing 
 - [webdrivermanager 🌐](https://github.com/bonigarcia/webdrivermanager) - Java - Java library to configure webdriver used in Selenium tests
