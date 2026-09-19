@@ -1,8 +1,12 @@
 # Automation resources 🤖
 
-> Links, articles and other hand-picked links to help automate anything!
+> Links, articles and other hand-picked resources to help automate anything!
 
-## Multi Platform
+I have another repository that focus on installing and configure test and dev tools:
+
+- [Ubuntu for Testing](https://github.com/edumco/ubuntu-for-testing)
+
+## Multi Platform Frameworks
 
 - [Appium 🌐](https://appium.io/) (ui, web, mobile)
 
@@ -16,7 +20,7 @@
 
 - [json-server 🌐](https://github.com/magneticio/sava-product) (api, mock)
 
-## Language Specific
+## Language Specific Frameworks
 
 - [Python](/docs/programming/python.md)
 
@@ -28,11 +32,19 @@
 
 - [Shells (Bash and Powershell)](/docs/programming/shells.md)
 
-## Advanced Testing
+## Advanced Topics 🎓
 
 ### Accessibility Testing
 
 - [axe-core-npm](https://github.com/dequelabs/axe-core-npm)
+
+### Automation planning
+
+- [Automation ROI](docs/topics/automation-roi.md)
+- [Clean Tests](docs/topics/clean-tests.md)
+- [Test Patterns](docs/topics/test-patterns.md)
+- [Test Performance](docs/topics/test-performance.md)
+- [Test prioritization](docs/topics/test-priorization.md)
 
 ### Infrastructure testing
 
@@ -46,47 +58,27 @@
 
 - [Open Policy 🌐](https://www.openpolicyagent.org/)
 
-## Tools 🔨
+### Fuzzing
 
-### Development and build
+- [Stryker JS Test Mutation 🌐](https://github.com/stryker-mutator/stryker-js) - JavaScript
+- [Fuzzing testing 🌐](https://github.com/google/AFL)
+- [FuzzBench 🌐](https://google.github.io/fuzzbench/) - Fuzzer Benchmarking Service
 
-- [Git](docs/tools/linux.md)
-- [VS Code](docs/tools/vscode.md)
-- [Gihub clone all](https://github.com/mgedmin/ghcloneall)
+### Chaos testing (Failure recovery testing)
 
-### CI and CD
+- [Pumba Chaos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
 
-- [Jenkins](docs/tools/jenkins.md) - Pipeline automation
-- [Shellcheck 🌐](https://github.com/koalaman/shellcheck) - Static Analysis for BASH
-- [Pull 🌐](https://github.com/wei/pull) - Continuous pull update on Github repos.
+### Test Case generation
 
----
+- [Test Case generation 🌐](https://github.com/Cornutum/tcases)
 
-## Blogs and Link repos
+## References 📚
 
 - [Awesome Test Automation](https://github.com/atinfo/awesome-test-automation)
 - [Awesome Brazilian Devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs)
 - [Test Smells](https://github.com/testdouble/test-smells)
 
----
-
-## Advanced Topics 🎓
-
-- [Automation ROI](docs/topics/automation-roi.md)
-- [Certification](docs/topics/certification.md)
-- [Clean Tests](docs/topics/clean-tests.md)
-- [Stryker JS Test Mutation 🌐](https://github.com/stryker-mutator/stryker-js) - JavaScript
-- [Fuzzing testing 🌐](https://github.com/google/AFL)
-- [FuzzBench 🌐](https://google.github.io/fuzzbench/) - Fuzzer Benchmarking Service
-- [Pumba Chaos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
-- [Test Case generation 🌐](https://github.com/Cornutum/tcases)
-- [Test Patterns](docs/topics/test-patterns.md)
-- [Test Performance](docs/topics/test-performance.md)
-- [Test prioritization](docs/topics/test-priorization.md)
-
----
-
-## Thanks
+## Thanks 🙏
 
 - Thanks to [@rojopolis](https://github.com/rojopolis) for the [GitHub Spellcheck Action](https://github.com/rojopolis/spellcheck-github-actions)
 
