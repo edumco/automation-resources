@@ -1,87 +1,100 @@
 # Automation resources 🤖
 
-Links, articles and other hand-picked links to help automate anything!
+> Links, articles and other hand-picked links to help automate anything!
 
-The links are grouped by theme and some have dedicated pages with lots of courses, books and other stuff.
+## Multi Platform
 
-You can help sending suggestions via pull request or issue.
+- [Appium 🌐](https://appium.io/) (ui, web, mobile)
+
+- [Cucumber](docs/frameworks/cucumber.md) (bdd)
+
+- [Selenium](docs/frameworks/selenium.md) (web)
+
+- [Recheck 🌐](https://github.com/retest/recheck-web) (web, Visual regression)
+
+- [PDF Compare 🌐](https://github.com/red6/pdfcompare) (files)
+
+- [json-server 🌐](https://github.com/magneticio/sava-product) (api, mock)
+
+## Language Specific
+
+### Python
+
+- [PyTest](docs/frameworks/pytest.md)
+
+- [Py Thruth 🌐](https://github.com/google/pytruth)
+
+- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Fixtures for Django webpages
+
+### Javascript
+
+- [Cypress 🌐](https://github.com/cypress-io/cypress) (web ui)
+
+- [Jest 🌐](https://github.com/facebook/jest)- (unit, service and ui)
+
+- [Mockito](docs/frameworks/mockito.md) (mocks)
+
+- [TestDouble 🌐](https://github.com/testdouble/testdouble.js) (mocks and stubs)
+
+- [Enzime 🌐](https://github.com/enzymejs/enzyme) - Javascript - Test utilities
+
+### JVM (Java, Kotlin, Scala)
+
+- [JUnit](docs/JUnit.md) (unit)
+
+- [Arquillian](http://arquillian.org/) (integration)
+
+- [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) (api)
+
+- [Oculix (Previous called Sikuli) 🌐](https://github.com/oculix-org/Oculix) (UI)
+
+- [ArchUnit 🌐](https://www.archunit.org/) (architecture testing)
+
+- [Maven Build Scanner 🌐](https://github.com/intuit/maven-build-scanner)
+
+- [Kotest](https://github.com/kotest/kotest)
+
+- [webdrivermanager 🌐](https://github.com/bonigarcia/webdrivermanager)
+
+### Go
+
+- [GoTests 🌐](https://github.com/cweill/gotests) (boilerplate generation)
+
+- [Go Testsum 🌐](https://github.com/gotestyourself/gotestsum)
+
+- [Faker 🌐](https://github.com/jaswdr/faker) (data generator)
+
+- [Testify 🌐](https://github.com/stretchr/testify)(mocks, assertions)
+
+### Shells (Bash and Powershell)
+
+- [Bats 🌐](https://github.com/bats-core/bats-core) (unit)
+
+- [Shellspec 🌐](https://github.com/shellspec/shellspec) (bdd)
+
+- [PowerShell Pester 🌐](https://github.com/pester/Pester)
 
 ---
 
-## Frameworks 📝
-
-Complete solutions to automate software execution, they normally include: a testing DSL, a test discorevy mecanism, a test executor and some sort of result reporting. More complete solutions also add features like: test data creation, stub and mocking helpers, configuration test and some sort of test execution grouping.
-
-### Unit Testing
-
-- [JUnit](docs/JUnit.md) - Java
-- [PDF Compare 🌐](https://github.com/red6/pdfcompare) - Java - A PDF testing helper
-- [PyTest](docs/frameworks/pytest.md) - Python
-- [Py Thruth 🌐](https://github.com/google/pytruth) - Python - Assertions for python tests.
-- [Jest 🌐](https://github.com/facebook/jest) - JavaScript - Browser based tests (unit, service and ui)
-- [Go Testsum 🌐](https://github.com/gotestyourself/gotestsum) - Golang
-- [Kotest](https://github.com/kotest/kotest) - Kotlin
-- [shUnit2 🌐](https://github.com/kward/shunit2/)   - Bash
-- [Bats 🌐](https://github.com/bats-core/bats-core) - Bash - Bash Automated Testing System
-- [Bash Unit 🌐](https://github.com/pgrange/bash_unit) - Bash
-- [Pester 🌐](https://github.com/pester/Pester) - PowerShell. 
-
-### Data creation and Mocking
-
-- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Python - Fixtures for Django webpages
-- [Faker 🌐](https://github.com/jaswdr/faker) - Golang - Fake data generator
-- [Mockito](docs/frameworks/mockito.md)
-- [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation
-- [TestDouble 🌐](https://github.com/testdouble/testdouble.js) - JavaScript - Mocks and stubs
-- [GoTests 🌐](https://github.com/cweill/gotests) - Golang - Test boilerplate generation
-- [Testify 🌐](https://github.com/stretchr/testify) - Golang - Mocks and assertions.
-- [docker-json-server 🌐](https://github.com/magneticio/sava-product) - JSON - REST API mocking based on plain JSON
-- [Enzime 🌐](https://github.com/enzymejs/enzyme) - Javascript - Test utilities
-
-### UI and Acceptance Testing
-
-- [Arquillian](http://arquillian.org/) - Java -  integration, functional and acceptance tests.
-- [Selenium](docs/frameworks/selenium.md) - Java, Python, CSharp, Ruby, JavaScript and kotlin - Browser UI testing 
-- [webdrivermanager 🌐](https://github.com/bonigarcia/webdrivermanager) - Java - Java library to configure webdriver used in Selenium tests
-- [Cypress 🌐](https://github.com/cypress-io/cypress) - Javascript - Browser UI testing
-- [Appium 🌐](https://appium.io/)
-- [Karate 🌐](https://github.com/intuit/karate) - Java and cross-platform - UI and service
-- [SerenityJS 🌐](https://github.com/serenity-js/serenity-js) - JavaScript - Acceptance and Service test
-- [Gauge 🌐](https://github.com/getgauge/gauge) - Multi language - BDD style test
-- [Recheck 🌐](https://github.com/retest/recheck) - Java - Visual Regression
-- [Recheck 🌐](https://github.com/retest/recheck-web) - Java - WebPage Visual regression 
-- [Sikuli X1 🌐](https://github.com/RaiMan/SikuliX1) - Java - Desktop UI testing
-- [Puppeteer 🌐](https://github.com/puppeteer/puppeteer) - Javascript
-
-### BDD Testing
-
-- [Behave](docs/frameworks/behave.md)
-- [Cucumber](docs/frameworks/cucumber.md)
-- [Jasmine](docs/frameworks/jasmine.md)
-- [Shellspec 🌐](https://github.com/shellspec/shellspec) - BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells.
+## Advanced Testing
 
 ### Infrastructure testing
 
-- [Terratest](docs/frameworks/terratest.md) - Terraform
-- [ChefSpec 🌐](https://docs.chef.io/workstation/chefspec/) - Chef
-- [RSpec Puppet 🌐](https://rspec-puppet.com/) - Puppet
-- [Pytest-Testinfra 🌐](https://github.com/pytest-dev/pytest-testinfra) - Python - Unit tests for infrastructure
-- [ServerSpec 🌐](https://serverspec.org/)
+- [Terratest](docs/frameworks/terratest.md) (multi platform infra testing)
+
+- [TF Lint 🌐](https://github.com/terraform-linters/tflint)
+
+- [TF Sec 🌐](https://aquasecurity.github.io/tfsec)
+
 - [Goss 🌐](https://github.com/aelsabbahy/goss) - Golang - Server Spec testing
 
-### Architecture testing
-
-- [`ArchUnit`](https://www.archunit.org/) - Java - A Java architecture test library to specify and assert architecture rules.
+- [Open Policy 🌐](https://www.openpolicyagent.org/)
 
 ---
 
-## Programming Languages 💻
+## Accessibility Testing
 
-- [Algorithms and Data Structures](docs/programming/algorithms.md)
-- [Java](docs/programming/java.md)
-- [Javascript](docs/programming/javascript.md)
-- [Python](docs/programming/python.md)
-- [SQL](docs/programming/sql.md)
+- [axe-core-npm](https://github.com/dequelabs/axe-core-npm)
 
 ---
 
@@ -89,31 +102,15 @@ Complete solutions to automate software execution, they normally include: a test
 
 ### Development and build
 
-- [hoppscotch previously PostWoman 🌐](https://github.com/hoppscotch/hoppscotch) - Api test webbased tool
-- [Pyan](https://github.com/Technologicat/pyan) - Python - Offline call graph generator for Python 3
 - [Git](docs/tools/linux.md)
 - [VS Code](docs/tools/vscode.md)
-- [Linux](docs/tools/git.md)
-- [Maven](docs/tools/maven.md)
-- [NodeJS](docs/tools/nodejs.md)
-- [Chrome](docs/tools/chrome.md)
-- [Maven Build Scanner 🌐](https://github.com/intuit/maven-build-scanner)
-- [Gihub clone all](https://github.com/mgedmin/ghcloneall) - Baixa todos os seus repos do github 
+- [Gihub clone all](https://github.com/mgedmin/ghcloneall)
 
 ### CI and CD
 
 - [Jenkins](docs/tools/jenkins.md) - Pipeline automation
 - [Shellcheck 🌐](https://github.com/koalaman/shellcheck) - Static Analysis for BASH
 - [Pull 🌐](https://github.com/wei/pull) - Continuous pull update on Github repos.
-
----
-
-## Virtualization and Cloud Computing 🎯
-
-- [AWS](docs/clouds/aws.md)
-- [Azure](docs/clouds/azure.md)
-- [Docker](docs/tools/docker.md)
-- [Kubernetes](docs/tools/kubernetes.md)
 
 ---
 
