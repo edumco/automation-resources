@@ -42,6 +42,7 @@
 
 - [JUnit](docs/JUnit.md) (unit)
 
+- [Agent QA 🌐](https://github.com/vostride/agent-qa) - Natural-language testing for local web and Android applications through an npm CLI and MCP server.
 - [Arquillian](http://arquillian.org/) (integration)
 
 - [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) (api)
