@@ -17,3 +17,5 @@ It has becoming a great language for testing cause is easy to learn and can be u
 - [The Python Bible™ | Everything You Need to Program in Python](https://www.udemy.com/course/the-python-bible/)
 
 - [Intro to Data Science Using Python: Your Best Starting Point](https://www.udemy.com/course/intro-to-data-science-using-python-your-best-starting-point/)
+
+[Selenium WebDriver + BDD + Python 3 - Superando os problemas](https://www.udemy.com/course/selenium-webdriver-basico-com-behave-e-python-3/)
