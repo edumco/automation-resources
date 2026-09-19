@@ -18,65 +18,21 @@
 
 ## Language Specific
 
-### Python
+- [Python](/docs/programming/python.md)
 
-- [PyTest](docs/frameworks/pytest.md)
+- [Javascript and Typescript](/docs/programming/javascript.md)
 
-- [Py Thruth 🌐](https://github.com/google/pytruth)
+- [JVM (Java, Kotlin, Scala)](/docs/programming/java.md)
 
-- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Fixtures for Django webpages
+- [Go (golang)](/docs/programming/go.md)
 
-### Javascript
-
-- [Cypress 🌐](https://github.com/cypress-io/cypress) (web ui)
-
-- [Jest 🌐](https://github.com/facebook/jest)- (unit, service and ui)
-
-- [Mockito](docs/frameworks/mockito.md) (mocks)
-
-- [TestDouble 🌐](https://github.com/testdouble/testdouble.js) (mocks and stubs)
-
-- [Enzime 🌐](https://github.com/enzymejs/enzyme) - Javascript - Test utilities
-
-### JVM (Java, Kotlin, Scala)
-
-- [JUnit](docs/JUnit.md) (unit)
-
-- [Arquillian](http://arquillian.org/) (integration)
-
-- [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) (api)
-
-- [Oculix (Previous called Sikuli) 🌐](https://github.com/oculix-org/Oculix) (UI)
-
-- [ArchUnit 🌐](https://www.archunit.org/) (architecture testing)
-
-- [Maven Build Scanner 🌐](https://github.com/intuit/maven-build-scanner)
-
-- [Kotest](https://github.com/kotest/kotest)
-
-- [webdrivermanager 🌐](https://github.com/bonigarcia/webdrivermanager)
-
-### Go
-
-- [GoTests 🌐](https://github.com/cweill/gotests) (boilerplate generation)
-
-- [Go Testsum 🌐](https://github.com/gotestyourself/gotestsum)
-
-- [Faker 🌐](https://github.com/jaswdr/faker) (data generator)
-
-- [Testify 🌐](https://github.com/stretchr/testify)(mocks, assertions)
-
-### Shells (Bash and Powershell)
-
-- [Bats 🌐](https://github.com/bats-core/bats-core) (unit)
-
-- [Shellspec 🌐](https://github.com/shellspec/shellspec) (bdd)
-
-- [PowerShell Pester 🌐](https://github.com/pester/Pester)
-
----
+- [Shells (Bash and Powershell)](/docs/programming/shells.md)
 
 ## Advanced Testing
+
+### Accessibility Testing
+
+- [axe-core-npm](https://github.com/dequelabs/axe-core-npm)
 
 ### Infrastructure testing
 
@@ -89,14 +45,6 @@
 - [Goss 🌐](https://github.com/aelsabbahy/goss) - Golang - Server Spec testing
 
 - [Open Policy 🌐](https://www.openpolicyagent.org/)
-
----
-
-## Accessibility Testing
-
-- [axe-core-npm](https://github.com/dequelabs/axe-core-npm)
-
----
 
 ## Tools 🔨
 

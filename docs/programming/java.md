@@ -4,6 +4,22 @@ Java is a widely used by testers in traditional corporations.
 
 It is used for unit ([[JUnit]]) and Component tests [[Spring Test]] for Java programs and for Integration tests on web pages using automation frameworks like [[selenium]].
 
+- [JUnit](docs/JUnit.md) (unit)
+
+- [Arquillian](http://arquillian.org/) (integration)
+
+- [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) (api)
+
+- [Oculix (Previous called Sikuli) 🌐](https://github.com/oculix-org/Oculix) (UI)
+
+- [ArchUnit 🌐](https://www.archunit.org/) (architecture testing)
+
+- [Maven Build Scanner 🌐](https://github.com/intuit/maven-build-scanner)
+
+- [Kotest](https://github.com/kotest/kotest)
+
+- [webdrivermanager 🌐](https://github.com/bonigarcia/webdrivermanager)
+
 ## Courses
 
 ### Beginner

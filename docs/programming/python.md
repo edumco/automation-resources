@@ -4,6 +4,12 @@ Python is a scripted language used to create several types of applications.
 
 It has becoming a great language for testing cause is easy to learn and can be used for many types of test.
 
+- [PyTest](docs/frameworks/pytest.md)
+
+- [Py Thruth 🌐](https://github.com/google/pytruth)
+
+- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Fixtures for Django webpages
+
 ## Courses
 
 ### Beginner 🆓 💰
