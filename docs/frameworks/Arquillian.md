@@ -1,2 +1,0 @@
-
-https://arquillian.org/invasion/
