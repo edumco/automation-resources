@@ -62,10 +62,6 @@ I have another repository that focus on installing and configure test and dev to
 
 - [Pumba Chaos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
 
-### Test Case generation
-
-- [Test Case generation 🌐](https://github.com/Cornutum/tcases)
-
 ## References 📚
 
 - [Awesome Test Automation](https://github.com/atinfo/awesome-test-automation)
