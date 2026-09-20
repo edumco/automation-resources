@@ -8,7 +8,7 @@ I have another repository that focus on installing and configure test and dev to
 
 ## Multi Platform Frameworks
 
-- [Appium 🌐](https://appium.io/) (ui, web, mobile)
+- [Appium](/docs/frameworks/appium.md) (ui, web, mobile)
 
 - [Cucumber](docs/frameworks/cucumber.md) (bdd)
 
