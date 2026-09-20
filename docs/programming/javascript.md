@@ -16,6 +16,8 @@ Protractor, Jasmine
 
 - [Enzime 🌐](https://github.com/enzymejs/enzyme) - Javascript - Test utilities
 
+- [TestDouble 🌐](https://github.com/testdouble/testdouble.js) - JavaScript - Mocks and stubs
+
 ## Courses
 
 ### Beginner 🆓 💰

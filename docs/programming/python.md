@@ -10,6 +10,8 @@ It has becoming a great language for testing cause is easy to learn and can be u
 
 - [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Fixtures for Django webpages
 
+- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Python - Fixtures for Django webpages
+
 ## Courses
 
 ### Beginner 🆓 💰
