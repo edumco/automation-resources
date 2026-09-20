@@ -40,8 +40,6 @@ A very professional blog with a very diverse set of software related content. In
 
 [neverworkintheory.org](https://neverworkintheory.org/about/)
 
-## Test Patterns
-
 ## Performance
 
 - [Java Concurrency For Absolute Beginners](https://www.udemy.com/course/java-concurrency-practical-for-absolute-beginners/) 💰

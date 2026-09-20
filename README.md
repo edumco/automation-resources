@@ -14,12 +14,6 @@ I have another repository that focus on installing and configure test and dev to
 
 - [Selenium](docs/frameworks/selenium.md) (web)
 
-- [Recheck 🌐](https://github.com/retest/recheck-web) (web, Visual regression)
-
-- [PDF Compare 🌐](https://github.com/red6/pdfcompare) (files)
-
-- [json-server 🌐](https://github.com/magneticio/sava-product) (api, mock)
-
 ## Language Specific Frameworks
 
 - [Python](/docs/programming/python.md)
@@ -34,33 +28,15 @@ I have another repository that focus on installing and configure test and dev to
 
 ## Advanced Topics 🎓
 
-### Accessibility Testing
-
-- [axe-core-npm](https://github.com/dequelabs/axe-core-npm)
+- [Accessibility Testing](/docs/topics/accessibility.md)
 
 - [Automation Planning](/docs/topics/planning.md)
 
-### Infrastructure testing
+- [Infrastructure Testing](/docs/topics/infrastructure.md)
 
-- [Terratest](docs/frameworks/terratest.md) (multi platform infra testing)
+- [Fuzzing](/docs/topics/fuzzing.md)
 
-- [TF Lint 🌐](https://github.com/terraform-linters/tflint)
-
-- [TF Sec 🌐](https://aquasecurity.github.io/tfsec)
-
-- [Goss 🌐](https://github.com/aelsabbahy/goss) - Golang - Server Spec testing
-
-- [Open Policy 🌐](https://www.openpolicyagent.org/)
-
-### Fuzzing
-
-- [Stryker JS Test Mutation 🌐](https://github.com/stryker-mutator/stryker-js) - JavaScript
-- [Fuzzing testing 🌐](https://github.com/google/AFL)
-- [FuzzBench 🌐](https://google.github.io/fuzzbench/) - Fuzzer Benchmarking Service
-
-### Chaos testing (Failure recovery testing)
-
-- [Pumba Chaos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
+- [Chaos Testing](/docs/topics/chaos-recover.md)
 
 ## References 📚
 
