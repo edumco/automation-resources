@@ -38,13 +38,7 @@ I have another repository that focus on installing and configure test and dev to
 
 - [axe-core-npm](https://github.com/dequelabs/axe-core-npm)
 
-### Automation planning
-
-- [Automation ROI](docs/topics/automation-roi.md)
-- [Clean Tests](docs/topics/clean-tests.md)
-- [Test Patterns](docs/topics/test-patterns.md)
-- [Test Performance](docs/topics/test-performance.md)
-- [Test prioritization](docs/topics/test-priorization.md)
+- [Automation Planning](/docs/topics/planning.md)
 
 ### Infrastructure testing
 
