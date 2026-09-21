@@ -1,55 +1,46 @@
 # Selenium
 
-Selenium is a test [[Test Automation Framework]] that allows tests to control browsers remotely using the [[WebDriver API]].
-
-It works finding, interacting and verifying the status of a web page on a browser.
-
-It is mostly used for integration tests but can be used on components with the help of Mocking frameworks.
+Selenium is a classic test automation framework that allows you to control browsers  remotely. Mostly used for integration tests but can be used on components with the help of Mocking frameworks.
 
 It is not viable for unit tests, that are better handled by XUnit frameworks.
 
-## Courses
+## Why should you learn
 
-### Beginner
+- If you already learned Playwright or Cypres
+  - Selenium exposes you to more technical details so sometimes it can be a little more complex. If you already known another automation framework it can add much knowledge to your career.
 
-- [Certified Professional Selenium Automation Testing](https://www.udemy.com/course/cp-sat-certified-professional-selenium-automation-testing/) 🆓 4h
+- If your company already uses it
 
-- [Automação de Testes com Selenium WebDriver em Java](https://www.udemy.com/course/automacao-de-testes-com-selenium-webdriver-em-java/) 💰
+- If our company is focused on Java tech
 
-- [Selenium WebDriver + Java. Complete step by step course.](https://www.udemy.com/course/selenium-webdriver-java-complete-step-by-step-course/) 💰
+## What a tester should learn
 
-- [Selenium WebDriver with Java & Cucumber BDD](https://www.udemy.com/course/automate-tests-using-selenium-webdriver-with-java-cucumber/) 💰
+- Configure and install
+- Junit basics
+- Test collection and test suits
+- Test assertions
+- Test reports
+- Webdriver manager integration
+- Parallel test execution
 
-### Intermediate
+## Resources
+
+### Courses
 
 - [Selenium for Beginners using Java step by step](https://www.udemy.com/course/selenium-using-java-for-automation-test-development/) 🆓
 
-- [Selenium WebDriver-How to Do Mouse and Keyboard Actions](https://www.udemy.com/course/selenium-webdriver-how-to-do-mouse-and-keyboard-actions/) 💰
-
-- [Automating Web Testing with Selenium and Python](https://www.udemy.com/course/automating-web-testing-with-selenium-and-python/) 💰
-
-- [Advanced Selenium WebDriver with Java and TestNG](https://www.udemy.com/course/advanced-selenium-webdriver/) 💰
-
-- [Advanced Selenium testing framework with Java](https://www.udemy.com/course/selenium-webdriver-test-framework-from-scratch/) 💰
-
-### Advanced
-
-- [Mastering Selenium Testing Tools](https://www.udemy.com/course/mastering-selenium-testing-tools/) 💰
+- [Sauce Labs Masterclass: Advanced Test Automation](https://www.udemy.com/course/sauce-labs/) 🆓
 
 - [Advanced Selenium Automation](https://www.udemy.com/course/advanced-selenium-automation/) 💰
 
-- [Page Object Pattern in Selenium WebDriver](https://www.udemy.com/course/selenium-webdriver-page-objects/) 💰
-
 - [Introduction To Parallel Test Execution with Selenium](https://www.udemy.com/course/parallel-test-execution/) 💰
 
-- [Sauce Labs Masterclass: Advanced Test Automation](https://www.udemy.com/course/sauce-labs/)
+## References
 
-- [Getting Started with Python Web Scraping](https://www.udemy.com/course/getting-started-with-python-web-scraping/) 💰
+- [Blog Selenium Java](https://seleniumjava.com/)
 
-## Blogs
+- [Selenium - Test Reports](https://www.selenium.dev/documentation/test_practices/encouraged/improved_reporting/)
 
-### Selenium Automation in JAVA
+- [2026 - Selenium vs Playwright](https://www.autemos.com/en/blogs/selenium-vs-playwright)
 
-With lots of great content and a beautiful presentation this is one of my favorites blogs.
-
-Visit: [Selenium Java](https://seleniumjava.com/)
+- [Is Selenium Still Relevant in 2026?](https://whalecoursetechnologies.com/is-selenium-still-relevant-in-2026-future-of-selenium-automation-testing/)

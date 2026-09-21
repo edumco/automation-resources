@@ -1,16 +1,18 @@
 # Java language family
 
-Java is a widely used by testers in traditional corporations that can be used in all testing levels and phases.
+Java is a widely used by testers in traditional corporations. It runs inside a virtual machine (JDK) thats also used as base for other languages like: Kotlin, Scala, Clojure and Groovy.
 
-It runs inside a virtual machine (JDK) thats also used as base for other languages like: Kotlin, Scala, Clojure and Groovy.
+## Why you should learn
 
-It also can be used to test software written in any other languages since it has any of these points of test:
-
-- Web Pages (Selenium, Playwright)
-- API's (Bruno, SoapUI)
-- Database or file manipulation
-- Shell returns
-- Graphic interfaces (Appium, Oculix)
+- Large adoption on corporations
+- Mature testing ecosystem
+- All testing levels nd multiple testing types
+- Can be used to test software written in any other languages:
+  - Web Pages (Selenium, Playwright)
+  - API's (Bruno, SoapUI)
+  - Database or file manipulation
+  - Shell returns
+  - Graphic interfaces (Appium, Oculix)
 
 ## What a tester should learn
 
