@@ -12,6 +12,8 @@ It is not viable for unit tests, that are better handled by XUnit frameworks.
 
 ### Beginner
 
+- [Certified Professional Selenium Automation Testing](https://www.udemy.com/course/cp-sat-certified-professional-selenium-automation-testing/) 🆓 4h
+
 - [Automação de Testes com Selenium WebDriver em Java](https://www.udemy.com/course/automacao-de-testes-com-selenium-webdriver-em-java/) 💰
 
 - [Selenium WebDriver + Java. Complete step by step course.](https://www.udemy.com/course/selenium-webdriver-java-complete-step-by-step-course/) 💰

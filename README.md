@@ -1,145 +1,52 @@
 # Automation resources 🤖
 
-> Links, articles and other hand-picked links to help automate anything!
+> Links, articles and other hand-picked resources to help automate anything!
 
-## Multi Platform
+I have another repository that focus on installing and configure test and dev tools:
 
-- [Appium 🌐](https://appium.io/) (ui, web, mobile)
+- [Ubuntu for Testing](https://github.com/edumco/ubuntu-for-testing)
+
+## Multi Platform Frameworks
+
+- [Appium](/docs/frameworks/appium.md) (ui, web, mobile)
+
+- [Agent QA 🌐](https://github.com/vostride/agent-qa) - Natural-language testing for local web and Android applications through an npm CLI and MCP server.
 
 - [Cucumber](docs/frameworks/cucumber.md) (bdd)
 
 - [Selenium](docs/frameworks/selenium.md) (web)
 
-- [Recheck 🌐](https://github.com/retest/recheck-web) (web, Visual regression)
+## Language Specific Frameworks
 
-- [PDF Compare 🌐](https://github.com/red6/pdfcompare) (files)
+- [Python](/docs/programming/python.md)
 
-- [json-server 🌐](https://github.com/magneticio/sava-product) (api, mock)
+- [Javascript and Typescript](/docs/programming/javascript.md)
 
-## Language Specific
+- [JVM (Java, Kotlin, Scala)](/docs/programming/java.md)
 
-### Python
+- [Go (golang)](/docs/programming/go.md)
 
-- [PyTest](docs/frameworks/pytest.md)
+- [Shells (Bash and Powershell)](/docs/programming/shells.md)
 
-- [Py Thruth 🌐](https://github.com/google/pytruth)
+## Advanced Topics 🎓
 
-- [Django Dynamic Fixture 🌐](https://github.com/paulocheque/django-dynamic-fixture) - Fixtures for Django webpages
+- [Accessibility Testing](/docs/topics/accessibility.md)
 
-### Javascript
+- [Automation Planning](/docs/topics/planning.md)
 
-- [Cypress 🌐](https://github.com/cypress-io/cypress) (web ui)
+- [Infrastructure Testing](/docs/topics/infrastructure.md)
 
-- [Jest 🌐](https://github.com/facebook/jest)- (unit, service and ui)
+- [Fuzzing](/docs/topics/fuzzing.md)
 
-- [Mockito](docs/frameworks/mockito.md) (mocks)
+- [Chaos Testing](/docs/topics/chaos-recover.md)
 
-- [TestDouble 🌐](https://github.com/testdouble/testdouble.js) (mocks and stubs)
-
-- [Enzime 🌐](https://github.com/enzymejs/enzyme) - Javascript - Test utilities
-
-### JVM (Java, Kotlin, Scala)
-
-- [JUnit](docs/JUnit.md) (unit)
-
-- [Agent QA 🌐](https://github.com/vostride/agent-qa) - Natural-language testing for local web and Android applications through an npm CLI and MCP server.
-- [Arquillian](http://arquillian.org/) (integration)
-
-- [Hoverfly 🌐](https://github.com/SpectoLabs/hoverfly) (api)
-
-- [Oculix (Previous called Sikuli) 🌐](https://github.com/oculix-org/Oculix) (UI)
-
-- [ArchUnit 🌐](https://www.archunit.org/) (architecture testing)
-
-- [Maven Build Scanner 🌐](https://github.com/intuit/maven-build-scanner)
-
-- [Kotest](https://github.com/kotest/kotest)
-
-- [webdrivermanager 🌐](https://github.com/bonigarcia/webdrivermanager)
-
-### Go
-
-- [GoTests 🌐](https://github.com/cweill/gotests) (boilerplate generation)
-
-- [Go Testsum 🌐](https://github.com/gotestyourself/gotestsum)
-
-- [Faker 🌐](https://github.com/jaswdr/faker) (data generator)
-
-- [Testify 🌐](https://github.com/stretchr/testify)(mocks, assertions)
-
-### Shells (Bash and Powershell)
-
-- [Bats 🌐](https://github.com/bats-core/bats-core) (unit)
-
-- [Shellspec 🌐](https://github.com/shellspec/shellspec) (bdd)
-
-- [PowerShell Pester 🌐](https://github.com/pester/Pester)
-
----
-
-## Advanced Testing
-
-### Infrastructure testing
-
-- [Terratest](docs/frameworks/terratest.md) (multi platform infra testing)
-
-- [TF Lint 🌐](https://github.com/terraform-linters/tflint)
-
-- [TF Sec 🌐](https://aquasecurity.github.io/tfsec)
-
-- [Goss 🌐](https://github.com/aelsabbahy/goss) - Golang - Server Spec testing
-
-- [Open Policy 🌐](https://www.openpolicyagent.org/)
-
----
-
-## Accessibility Testing
-
-- [axe-core-npm](https://github.com/dequelabs/axe-core-npm)
-
----
-
-## Tools 🔨
-
-### Development and build
-
-- [Git](docs/tools/linux.md)
-- [VS Code](docs/tools/vscode.md)
-- [Gihub clone all](https://github.com/mgedmin/ghcloneall)
-
-### CI and CD
-
-- [Jenkins](docs/tools/jenkins.md) - Pipeline automation
-- [Shellcheck 🌐](https://github.com/koalaman/shellcheck) - Static Analysis for BASH
-- [Pull 🌐](https://github.com/wei/pull) - Continuous pull update on Github repos.
-
----
-
-## Blogs and Link repos
+## References 📚
 
 - [Awesome Test Automation](https://github.com/atinfo/awesome-test-automation)
 - [Awesome Brazilian Devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs)
 - [Test Smells](https://github.com/testdouble/test-smells)
 
----
-
-## Advanced Topics 🎓
-
-- [Automation ROI](docs/topics/automation-roi.md)
-- [Certification](docs/topics/certification.md)
-- [Clean Tests](docs/topics/clean-tests.md)
-- [Stryker JS Test Mutation 🌐](https://github.com/stryker-mutator/stryker-js) - JavaScript
-- [Fuzzing testing 🌐](https://github.com/google/AFL)
-- [FuzzBench 🌐](https://google.github.io/fuzzbench/) - Fuzzer Benchmarking Service
-- [Pumba Chaos testing 🌐](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers.
-- [Test Case generation 🌐](https://github.com/Cornutum/tcases)
-- [Test Patterns](docs/topics/test-patterns.md)
-- [Test Performance](docs/topics/test-performance.md)
-- [Test prioritization](docs/topics/test-priorization.md)
-
----
-
-## Thanks
+## Thanks 🙏
 
 - Thanks to [@rojopolis](https://github.com/rojopolis) for the [GitHub Spellcheck Action](https://github.com/rojopolis/spellcheck-github-actions)
 

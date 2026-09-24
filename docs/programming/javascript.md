@@ -6,6 +6,18 @@ It is used for test web pages and hybrid applications.
 
 Protractor, Jasmine
 
+- [Cypress 🌐](https://github.com/cypress-io/cypress) (web ui)
+
+- [Jest 🌐](https://github.com/facebook/jest)- (unit, service and ui)
+
+- [Mockito](docs/frameworks/mockito.md) (mocks)
+
+- [TestDouble 🌐](https://github.com/testdouble/testdouble.js) (mocks and stubs)
+
+- [Enzime 🌐](https://github.com/enzymejs/enzyme) - Javascript - Test utilities
+
+- [TestDouble 🌐](https://github.com/testdouble/testdouble.js) - JavaScript - Mocks and stubs
+
 ## Courses
 
 ### Beginner 🆓 💰

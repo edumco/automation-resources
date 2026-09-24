@@ -1,2 +1,0 @@
-- [hoppscotch previously PostWoman 🌐](https://github.com/hoppscotch/hoppscotch) - Api test webbased tool
-- [Chrome](docs/tools/chrome.md)
