@@ -10,6 +10,8 @@ I have another repository that focus on installing and configure test and dev to
 
 - [Appium](/docs/frameworks/appium.md) (ui, web, mobile)
 
+- [Agent QA 🌐](https://github.com/vostride/agent-qa) - Natural-language testing for local web and Android applications through an npm CLI and MCP server.
+
 - [Cucumber](docs/frameworks/cucumber.md) (bdd)
 
 - [Selenium](docs/frameworks/selenium.md) (web)
