@@ -41,7 +41,9 @@ I have another repository that focus on installing and configure test and dev to
 ## References 📚
 
 - [Awesome Test Automation](https://github.com/atinfo/awesome-test-automation)
+
 - [Awesome Brazilian Devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs)
+
 - [Test Smells](https://github.com/testdouble/test-smells)
 
 ## Thanks 🙏
@@ -53,4 +55,3 @@ I have another repository that focus on installing and configure test and dev to
 - Thanks to all amazing github community
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cb911d602af6436a9fa5073616aa7815)](https://www.codacy.com/manual/edumco/automation-resources?utm_source=github.com&utm_medium=referral&utm_content=edumco/automation-resources&utm_campaign=Badge_Grade)
